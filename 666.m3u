@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="朝鲜",朝鲜TV
+https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 group-title="朝鲜",朝鲜TV(备用)
+http://219.150.218.114:8100/live/beichaoxian1/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
 http://176868.cloud/98f6e8249687f3660aae9566cbaed3ad/76d61a35db48b096f5c24a72c4c382c5/20d3ad97742f3abe5b90acd3f24ef357/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
@@ -1537,8 +1541,12 @@ http://ali.hlspull.yximgs.com/live/a7f63fc44904548e7c635e9d42fb33fd.flv
 http://176868.cloud/408095c726022b04bae178f9f2b7b761/76d61a35db48b096f5c24a72c4c382c5/05305da1062d0d3d143b9ebd83ff4dc5/index.m3u8
 #EXTINF:-1 group-title="韓國",MBC
 http://176868.cloud/d0f4c5882a983e311711ceae72f1d165/76d61a35db48b096f5c24a72c4c382c5/2f28b8057d13f8071d874c64b9b25dcc/index.m3u8
+#EXTINF:-1 group-title="韓國",MBC
+http://api.kbs8808.com:9331/live2.php?id=MBCHD&sid=.flv
 #EXTINF:-1 group-title="韓國",SBS
 http://176868.cloud/3f49b04d96bb2a008d8345bf40fcffe6/76d61a35db48b096f5c24a72c4c382c5/3218e570b1f132c52c0d46bb8b7a55f7/index.m3u8
+#EXTINF:-1 group-title="韓國",SBS
+http://api.kbs8808.com:9331/live2.php?id=SBSHD&sid=.flv
 #EXTINF:-1 group-title="韓國",MBN
 http://176868.cloud/b45600e7eb8fa165d9e2c0c57aaa7793/76d61a35db48b096f5c24a72c4c382c5/1ebeea3e497b6b3db77bcd4ee08c6435/index.m3u8
 #EXTINF:-1 group-title="韓國",YTN2
