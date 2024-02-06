@@ -2539,3 +2539,11 @@ http://176868.cloud/9a5465681a41102fcd57affb8bda340d/76d61a35db48b096f5c24a72c4c
 http://176868.cloud/c621ab9b58dea6922fe4520afb47e76c/76d61a35db48b096f5c24a72c4c382c5/f5f5fd04b4ecac2dde531f89c4cf321e/index.m3u8
 #EXTINF:-1 group-title="越南",Thainess
 http://176868.cloud/91fe4ef53c67c69f0ef05a70ef425ccf/76d61a35db48b096f5c24a72c4c382c5/a500da589c9dffb3b21a4ee0ce5697ad/index.m3u8
+#EXTINF:-1 group-title="思密达",KBS1
+http://api.kbs8808.com:9331/live2.php?id=KBS1HD&sid=.flv
+#EXTINF:-1 group-title="思密达",KBS2
+http://api.kbs8808.com:9331/live2.php?id=KBS2HD&sid=.flv
+#EXTINF:-1 group-title="思密达",MBC
+http://api.kbs8808.com:9331/live2.php?id=MBCHD&sid=.flv
+#EXTINF:-1 group-title="思密达",SBS
+http://api.kbs8808.com:9331/live2.php?id=SBSHD&sid=.flv
