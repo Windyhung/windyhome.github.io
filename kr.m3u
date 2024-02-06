@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="洪德万的频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",조선TV (480p)
-http://219.150.218.114:8100/live/beichaoxian1/index.m3u8
+http://219.150.218.114:8100/live/beichaoxian1/index18518.ts
 #EXTINF:-1 group-title="洪德万的频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",조선TV (480p)
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png",KBS Joy (480p)
