@@ -3,6 +3,12 @@
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="朝鲜",朝鲜TV(备用)
 http://219.150.218.114:8100/live/beichaoxian1/index.m3u8
+#EXTINF:-1 group-title="朝鲜",延边卫视
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+#EXTINF:-1 group-title="朝鲜",延边卫视1
+http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
+#EXTINF:-1 group-title="朝鲜",延边卫视2
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
 http://176868.cloud/98f6e8249687f3660aae9566cbaed3ad/76d61a35db48b096f5c24a72c4c382c5/20d3ad97742f3abe5b90acd3f24ef357/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
