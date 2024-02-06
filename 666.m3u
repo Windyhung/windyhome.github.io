@@ -2553,3 +2553,5 @@ http://api.kbs8808.com:9331/live2.php?id=KBS2HD&sid=.flv
 http://api.kbs8808.com:9331/live2.php?id=MBCHD&sid=.flv
 #EXTINF:-1 group-title="思密达",SBS
 http://api.kbs8808.com:9331/live2.php?id=SBSHD&sid=.flv
+#EXTINF:-1 group-title="思密达",KBSDRAMAHD
+http://api.kbs8808.com:9331/live2.php?id=KBSDRAMAHD&sid=.flv
