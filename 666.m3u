@@ -1532,6 +1532,8 @@ http://176868.cloud/b7047674a27d39bdfbe0708567ec703b/76d61a35db48b096f5c24a72c4c
 #EXTINF:-1 group-title="韓國",KBS1
 http://176868.cloud/4676a67322f3f124989d6efae38c527b/76d61a35db48b096f5c24a72c4c382c5/055086c8bdd653e89fcb02ac7576eb5b/index.m3u8
 #EXTINF:-1 group-title="韓國",KBS2
+http://ali.hlspull.yximgs.com/live/a7f63fc44904548e7c635e9d42fb33fd.flv
+#EXTINF:-1 group-title="韓國",KBS2
 http://176868.cloud/408095c726022b04bae178f9f2b7b761/76d61a35db48b096f5c24a72c4c382c5/05305da1062d0d3d143b9ebd83ff4dc5/index.m3u8
 #EXTINF:-1 group-title="韓國",MBC
 http://176868.cloud/d0f4c5882a983e311711ceae72f1d165/76d61a35db48b096f5c24a72c4c382c5/2f28b8057d13f8071d874c64b9b25dcc/index.m3u8
@@ -1675,6 +1677,8 @@ http://176868.cloud/ed7046ed0a5d2174b014b558b5d3890a/76d61a35db48b096f5c24a72c4c
 http://176868.cloud/d9d1e5f07eafb40b2081959fe15dc99e/76d61a35db48b096f5c24a72c4c382c5/077d8c92c545411cea99fac2906f8318/index.m3u8
 #EXTINF:-1 group-title="韓國",KBS1
 http://176868.cloud/63cd1e815588d0d03c5a54747b2fc31c/76d61a35db48b096f5c24a72c4c382c5/c9035581a5e2133c9dfb61890f960ac5/index.m3u8
+#EXTINF:-1 group-title="韓國",KBS1
+http://ali.hlspull.yximgs.com/live/174e1d6604a9a8742604c61b09100c98.flv
 #EXTINF:-1 group-title="韓國",KBS2
 http://176868.cloud/e64f590348230b46129d780b5acb726f/76d61a35db48b096f5c24a72c4c382c5/6e0fd4b1f75c04658f8c924e13fc2d54/index.m3u8
 #EXTINF:-1 group-title="韓國",sbs
