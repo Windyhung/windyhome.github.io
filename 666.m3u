@@ -2556,14 +2556,6 @@ http://176868.cloud/91fe4ef53c67c69f0ef05a70ef425ccf/76d61a35db48b096f5c24a72c4c
 #EXTINF:-1 group-title="思密达",KBS1
 http://api.kbs8808.com:9331/live2.php?id=KBS1HD&sid=.flv
 #EXTINF:-1 group-title="思密达",KBS1
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-#EXTINF:-1 group-title="思密达",KBS1
-http://220.95.92.160:9981/stream/channelid/660474352
-#EXTINF:-1 group-title="思密达",KBS1
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-#EXTINF:-1 group-title="思密达",KBS1
-http://220.95.92.160:9981/stream/channelid/660474352
-#EXTINF:-1 group-title="思密达",KBS1
 https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 #EXTINF:-1 group-title="思密达",KBS1
 https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
@@ -2577,29 +2569,16 @@ https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
 #EXTINF:-1 group-title="思密达",KBS1
 http://202.60.106.14:8080/200/playlist.m3u8
-#EXTINF:-1 group-title="思密达",KBS1
-http://202.60.106.14:21585/200/playlist.m3u8
 #EXTINF:-1 group-title="思密达",KBS2
 http://api.kbs8808.com:9331/live2.php?id=KBS2HD&sid=.flv
 #EXTINF:-1 group-title="思密达",KBS2
-http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-#EXTINF:-1 group-title="思密达",KBS2
-http://183.99.22.189:9981/stream/channelid/1564137658
-#EXTINF:-1 group-title="思密达",KBS2
-http://220.95.92.160:9981/stream/channelid/280136412
-#EXTINF:-1 group-title="思密达",KBS2
-https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?
 https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 #EXTINF:-1 group-title="思密达",MBC
 http://api.kbs8808.com:9331/live2.php?id=MBCHD&sid=.flv
 #EXTINF:-1 group-title="思密达",MBC
-https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-#EXTINF:-1 group-title="思密达",MBC
-http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="思密达",MBC
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 group-title="思密达",MBC
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="思密达",MBC
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="思密达",MBC
@@ -2613,13 +2592,11 @@ https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 #EXTINF:-1 group-title="思密达",SBS
 http://api.kbs8808.com:9331/live2.php?id=SBSHD&sid=.flv
 #EXTINF:-1 group-title="思密达",SBS
-http://183.99.22.189:9981/stream/channelid/1124346476
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="思密达",SBS
 http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 #EXTINF:-1 group-title="思密达",SBS
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-#EXTINF:-1 group-title="思密达",SBS
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="思密达",SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="思密达",SBS
