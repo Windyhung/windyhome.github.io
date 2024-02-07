@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="朝鲜",赵本山小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rqQekiDm3_2000.m3u8?txSecret=90dbdc5562875fa8de3aff0e5fe205a9&txTime=65c205dd&token=h5-douyu-0-9817716-eb60d4d867e5dca523131371bb869c57&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=381694503
-#EXTINF:-1 group-title="朝鲜",相声小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9286868rILAwF6th_2000.m3u8?txSecret=e6333c921c4b9b8b12dfd8c5ef3922ee&txTime=65c20870&token=h5-douyu-0-9286868-1e977d3063d9b62366824a0e2af6d36e&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=381192222
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rqQekiDm3_2000.flv?txSecret=c9d95cda003b42abecbedd6bd8b014a9&txTime=65c39142&token=h5-douyu-0-9817716-8903a356fba45bd44689bb11942e6e2f&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=381694503
 #EXTINF:-1 group-title="朝鲜",贱贱钓鱼
-http://openhls-tct.douyucdn2.cn/dyliveflv3/1338316rHDw0TM52_2000.m3u8?txSecret=b0e327db1239a0b1a0f089b9738f403f&txTime=65c2069d&token=h5-douyu-0-1338316-337d59b79e7203fca860076b17e71d26&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=381743629
+http://openhls-tct.douyucdn2.cn/dyliveflv3/1338316rHDw0TM52_2000.flv?txSecret=b4e2f3a977e6512be106f346b544db09&txTime=65c391a8&token=h5-douyu-0-1338316-387b6d8e151ef33b043a86884bcb3512&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=381743629
 #EXTINF:-1 group-title="朝鲜",韩国钓鱼
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/10616765rmDTO1TS_2000.m3u8?txSecret=316683efa1512fd48ddfaed0d80e7b5c&txTime=65c206f5&token=h5-douyu-0-10616765-8a5c7f5502d2399759185088723feb3a&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=375193944
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/10616765rmDTO1TS_2000.flv?txSecret=642d15313ea48f1eb20f1a566da19307&txTime=65c391df&token=h5-douyu-0-10616765-ba5a59eab3869c4ec705c9d750cc524d&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=375193944
 #EXTINF:-1 group-title="朝鲜",书岳钓鱼
-http://openhls-tct.douyucdn2.cn/dyliveflv3/10100206rjnn0GNC_2000.m3u8?txSecret=04dd92e79c5d9fe2c4cb9861cc9fba0d&txTime=65c20843&token=h5-douyu-0-10100206-188729f338634b56ffe0ff081b318a81&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=379943826
+http://openhls-tct.douyucdn2.cn/dyliveflv3/10100206rjnn0GNC_2000.flv?txSecret=361c446489e8bcbe239d0bc6937217aa&txTime=65c39207&token=h5-douyu-0-10100206-8ee858146a7827c5b2158c8525a4f3fc&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=379943826
 #EXTINF:-1 group-title="朝鲜",朝鲜TV
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="朝鲜",朝鲜TV(备用)
@@ -2557,11 +2555,82 @@ http://176868.cloud/c621ab9b58dea6922fe4520afb47e76c/76d61a35db48b096f5c24a72c4c
 http://176868.cloud/91fe4ef53c67c69f0ef05a70ef425ccf/76d61a35db48b096f5c24a72c4c382c5/a500da589c9dffb3b21a4ee0ce5697ad/index.m3u8
 #EXTINF:-1 group-title="思密达",KBS1
 http://api.kbs8808.com:9331/live2.php?id=KBS1HD&sid=.flv
+#EXTINF:-1 group-title="思密达",KBS1
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+#EXTINF:-1 group-title="思密达",KBS1
+http://220.95.92.160:9981/stream/channelid/660474352
+#EXTINF:-1 group-title="思密达",KBS1
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+#EXTINF:-1 group-title="思密达",KBS1
+http://220.95.92.160:9981/stream/channelid/660474352
+#EXTINF:-1 group-title="思密达",KBS1
+https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
+#EXTINF:-1 group-title="思密达",KBS1
+https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
+#EXTINF:-1 group-title="思密达",KBS1
+https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
+#EXTINF:-1 group-title="思密达",KBS1
+https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+#EXTINF:-1 group-title="思密达",KBS1
+https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
+#EXTINF:-1 group-title="思密达",KBS1
+https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
+#EXTINF:-1 group-title="思密达",KBS1
+http://202.60.106.14:8080/200/playlist.m3u8
+#EXTINF:-1 group-title="思密达",KBS1
+http://202.60.106.14:21585/200/playlist.m3u8
 #EXTINF:-1 group-title="思密达",KBS2
 http://api.kbs8808.com:9331/live2.php?id=KBS2HD&sid=.flv
+#EXTINF:-1 group-title="思密达",KBS2
+http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+#EXTINF:-1 group-title="思密达",KBS2
+http://183.99.22.189:9981/stream/channelid/1564137658
+#EXTINF:-1 group-title="思密达",KBS2
+http://220.95.92.160:9981/stream/channelid/280136412
+#EXTINF:-1 group-title="思密达",KBS2
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 #EXTINF:-1 group-title="思密达",MBC
 http://api.kbs8808.com:9331/live2.php?id=MBCHD&sid=.flv
+#EXTINF:-1 group-title="思密达",MBC
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="思密达",MBC
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 group-title="思密达",MBC
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 group-title="思密达",MBC
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 group-title="思密达",MBC
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="思密达",MBC
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="思密达",MBC
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 group-title="思密达",MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="思密达",MBC
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 #EXTINF:-1 group-title="思密达",SBS
 http://api.kbs8808.com:9331/live2.php?id=SBSHD&sid=.flv
+#EXTINF:-1 group-title="思密达",SBS
+http://183.99.22.189:9981/stream/channelid/1124346476
+#EXTINF:-1 group-title="思密达",SBS
+http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
+#EXTINF:-1 group-title="思密达",SBS
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1 group-title="思密达",SBS
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="思密达",SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 group-title="思密达",SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="思密达",SBS
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 group-title="思密达",SBS
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 group-title="思密达",SBS
+http://mytv.dothome.co.kr/ch/catv/284.php
+#EXTINF:-1 group-title="思密达",SBS
+https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
 #EXTINF:-1 group-title="思密达",KBSDRAMAHD
 http://api.kbs8808.com:9331/live2.php?id=KBSDRAMAHD&sid=.flv
