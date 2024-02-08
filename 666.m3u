@@ -2560,7 +2560,7 @@ http://176868.cloud/c621ab9b58dea6922fe4520afb47e76c/76d61a35db48b096f5c24a72c4c
 #EXTINF:-1 group-title="越南",Thainess
 http://176868.cloud/91fe4ef53c67c69f0ef05a70ef425ccf/76d61a35db48b096f5c24a72c4c382c5/a500da589c9dffb3b21a4ee0ce5697ad/index.m3u8
 #EXTINF:-1 group-title="思密达",KBS1
-http://api.kbs8808.com:9331/live2.php?id=KBS1HD&sid=.flv
+http://api.kbs2202.top/Api/live.php?id=KBS1HD&sid=.flv
 #EXTINF:-1 group-title="思密达",KBS1
 https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 #EXTINF:-1 group-title="思密达",KBS1
@@ -2576,7 +2576,7 @@ https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
 #EXTINF:-1 group-title="思密达",KBS1
 http://202.60.106.14:8080/200/playlist.m3u8
 #EXTINF:-1 group-title="思密达",KBS2
-http://api.kbs8808.com:9331/live2.php?id=KBS2HD&sid=.flv
+http://api.kbs2202.top/Api/live.php?id=KBS2HD&sid=.flv
 #EXTINF:-1 group-title="思密达",KBS2
 https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 #EXTINF:-1 group-title="思密达",MBC
@@ -2596,7 +2596,9 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="思密达",MBC
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 #EXTINF:-1 group-title="思密达",SBS
-http://api.kbs8808.com:9331/live2.php?id=SBSHD&sid=.flv
+http://api.kbs2202.top/Api/live.php?id=SBSHD&sid=.flv
+#EXTINF:-1 group-title="思密达",SBS
+http://ali.hlspull.yximgs.com/live/3efcd4e3c10ac70456e0f4adc78a596f.flv
 #EXTINF:-1 group-title="思密达",SBS
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="思密达",SBS
