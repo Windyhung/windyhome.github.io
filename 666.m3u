@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="朝鲜",赵本山小品
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rqQekiDm3_2000.flv?txSecret=c9d95cda003b42abecbedd6bd8b014a9&txTime=65c39142&token=h5-douyu-0-9817716-8903a356fba45bd44689bb11942e6e2f&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=381694503
+#EXTINF:-1 group-title="朝鲜",辽宁小品
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/9067836rz9W3AJ68_2000.flv?txSecret=5ae80bf09f9a4531d992f0f75e800891&txTime=65c49cfc&token=h5-douyu-0-9067836-b4c42986bb7d94685cd80f2d72c9add7&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=379938221
 #EXTINF:-1 group-title="朝鲜",相声小品
 http://openhls-tct.douyucdn2.cn/dyliveflv3/9273031rUJ0mKm56_2000.flv?txSecret=f6789f054202808a5feb5041a06f4cd4&txTime=65c49c11&token=h5-douyu-0-9273031-e7686af418b945bb3078d3902de6994e&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=379938226
 #EXTINF:-1 group-title="朝鲜",贱贱钓鱼
