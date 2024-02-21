@@ -2598,6 +2598,8 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="思密达",MBC
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 #EXTINF:-1 group-title="思密达",SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="思密达",SBS
 http://api.kbs2202.top/Api/live.php?id=SBSHD&sid=.flv
 #EXTINF:-1 group-title="思密达",SBS
 http://ali.hlspull.yximgs.com/live/3efcd4e3c10ac70456e0f4adc78a596f.flv
