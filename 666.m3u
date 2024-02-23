@@ -5,12 +5,12 @@ http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rqQekiDm3_2000.flv?txSecret=c
 http://media-proxy.yy.com/livesystem/15013_xv_32160832_32160832_0_0_0-15013_xa_32160832_32160832_0_0_0.m3u8?org=yyweb&uuid=f73b2315f078411d93da2e4911fd79b9&t=1708679788&tk=12c4ae07e535c1572f74cb39c593c51e
 #EXTINF:-1 group-title="朝鲜",宋小宝小品
 http://openhls-tct.douyucdn2.cn/dyliveflv3/9817729rxkZJQa6A_2000.flv?txSecret=d9082c237f8c989169f40f49465f38ae&txTime=65d88241&token=h5-douyu-0-9817729-354df667e7b74795f5ebcabea0fa27de&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=380386247
+#EXTINF:-1 group-title="朝鲜",相声小品
+http://43.138.170.29:35455/yy/1354936217
 #EXTINF:-1 group-title="朝鲜",辽宁小品
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/9273031r591DQA7Y_2000.flv?txSecret=0e4cbb884d9d3ee405cd7dd3962916b4&txTime=65d880f6&token=h5-douyu-0-9273031-324296844997df7f3cf97c7eb9d1cf1e&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383624484
-#EXTINF:-1 group-title="朝鲜",陈佩斯喜剧
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9286868rILAwF6th_2000.flv?txSecret=4316719a634f8c5f6e5ddc4a90bfcf7d&txTime=65c49da5&token=h5-douyu-0-9286868-1dca243fb5d1d2b13002a0679557cc25&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=381192222
-#EXTINF:-1 group-title="朝鲜",相声小品
-https://al.flv.huya.com/huyalive/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.flv?wsSecret=72e8f2bfe7f2bab4001ee60ad8ccd8d4&wsTime=65d86b49&seqid=3175894526402&ctype=huya_live&ver=1&fs=bgct&ratio=2000&dMod=wcs-25&sdkPcdn=1_1&u=1467496099484&t=100&sv=2401310322&sdk_sid=1708682056760
+#EXTINF:-1 group-title="朝鲜",四海钓鱼
+http://202.99.135.54:8888/rtp/239.253.93.243:6421
 #EXTINF:-1 group-title="朝鲜",贱贱钓鱼
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/1338316ri6ESmeDe_2000.flv?txSecret=a8ac5f6c4ccda99a7e9b46d85d0fbc32&txTime=65d881f6&token=h5-douyu-0-1338316-dab223cba235662c7747a9fd8b7a13ac&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383475789
 #EXTINF:-1 group-title="朝鲜",韩国钓鱼
@@ -31,6 +31,8 @@ http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 group-title="朝鲜",法证先锋2
 http://43.138.170.29:35455/yy/1354888736
+#EXTINF:-1 group-title="🇹🇼台灣新聞",中天新聞
+https://www.youtube.com/live/oIgbl7t0S_w?si=HDLl1RkiMbpwN4DU
 #EXTINF:-1 group-title="思密达",KBS1
 http://api.kbs2202.top/Api/live.php?id=KBS1HD&sid=.flv
 #EXTINF:-1 group-title="思密达",KBS1
@@ -133,6 +135,8 @@ http://176868.cloud/5e561f4b01b752f3a34cfd27aad74303/76d61a35db48b096f5c24a72c4c
 http://176868.cloud/537041d2f5eeb7951fa7eabcc27ddea7/76d61a35db48b096f5c24a72c4c382c5/30c976704776d2d7ee28cb8e681122ba/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣新聞",東森新聞
 http://176868.cloud/ea56157bccab2b2c59a3a0b940437a1b/76d61a35db48b096f5c24a72c4c382c5/442aa1ce6ecbe7bae03115a5b3a3b30b/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",中天新聞
+https://www.youtube.com/live/oIgbl7t0S_w?si=HDLl1RkiMbpwN4DU
 #EXTINF:-1 group-title="🇹🇼台灣新聞",中天新聞
 http://176868.cloud/ee95c1ffc4ba6a47794f918acd78b76e/76d61a35db48b096f5c24a72c4c382c5/a7e011ac2a3d6f89c0c31ce9e45fa837/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣新聞",中天新聞
