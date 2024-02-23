@@ -17,10 +17,12 @@ http://openhls-tct.douyucdn2.cn/dyliveflv3a/1338316ri6ESmeDe_2000.flv?txSecret=a
 http://openhls-tct.douyucdn2.cn/dyliveflv3/10616765rTblZDVk_2000.flv?txSecret=a1f056753485852715f22772c8669c1c&txTime=65d88192&token=h5-douyu-0-10616765-47aab1e674b38b72004e9d552def26cd&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=383426138
 #EXTINF:-1 group-title="朝鲜",书岳钓鱼
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/10100206rLtSZLHs_2000.flv?txSecret=a0db46b7e5b67fffafaaecfac4c4c42c&txTime=65d881c5&token=h5-douyu-0-10100206-678971d1fabdcedaf4894a059f25405a&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383629292
+#EXTINF:-1 group-title="朝鲜",雪豹
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/11578904rrRWdelf_2000.flv?txSecret=43c07df21e70170203ea569e48381239&txTime=65d88506&token=h5-douyu-0-11578904-5bd99a12d8962f8ee836fc04760003da&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383404127
 #EXTINF:-1 group-title="朝鲜",朝鲜TV
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="朝鲜",朝鲜TV(备用)
-http://219.150.218.114:8100/live/beichaoxian1/index.m3u8
+https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="朝鲜",延边卫视
 http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 #EXTINF:-1 group-title="朝鲜",延边卫视1
