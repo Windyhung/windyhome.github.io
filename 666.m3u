@@ -41,8 +41,6 @@ http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 group-title="朝鲜",法证先锋2
 http://43.138.170.29:35455/yy/1354888736
-#EXTINF:-1 group-title="🇹🇼台灣新聞",中天新聞
-https://www.youtube.com/live/oIgbl7t0S_w?si=HDLl1RkiMbpwN4DU
 #EXTINF:-1 group-title="思密达",KBS1
 http://api.kbs2202.top/Api/live.php?id=KBS1HD&sid=.flv
 #EXTINF:-1 group-title="思密达",KBS1
@@ -105,6 +103,20 @@ http://mytv.dothome.co.kr/ch/catv/284.php
 https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
 #EXTINF:-1 group-title="思密达",KBSDRAMAHD
 http://api.kbs8808.com:9331/live2.php?id=KBSDRAMAHD&sid=.flv
+#EXTINF:-1 group-title="电视剧集",人气港剧天地1
+http://openhls-tct.douyucdn2.cn/dyliveflv3/4290711reS4bzOjf_2000.flv?txSecret=6e855987a6888f30b0ccee7c87047413&txTime=65d9d733&token=h5-douyu-0-4290711-ce60c54b3f188c31b474793b0a3f96a0&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=384035502
+#EXTINF:-1 group-title="电视剧集",人气港剧天地2
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/5522351rbdPwI2Ri_2000.flv?txSecret=5a35e5f65b4beadba382d7f1dde6bae1&txTime=65d9d7aa&token=h5-douyu-0-5522351-9fe4c2b4f207cd627fc469cfc2657ef9&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=384035664
+#EXTINF:-1 group-title="电视剧集",人气港剧天地3
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/5261342rCTAHtO3Q_2000.flv?txSecret=1a67dd36f0316883b7cbfe8b1e72f105&txTime=65d9d7c0&token=h5-douyu-0-5261342-6d69533ecc29e1bada4018d7f1cd6620&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=384036485
+#EXTINF:-1 group-title="电视剧集",经典怀旧港剧
+http://openhls-tct.douyucdn2.cn/dyliveflv3/5061550r9UZi0Pls_2000.flv?txSecret=9a48047f8ef1509d2213aa74e49201f3&txTime=65d9d6f1&token=h5-douyu-0-5061550-b10c32a96f71ed11013b3e64b409a6f8&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=373343283
+INF:-1 group-title="电视剧集",回忆港剧
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/11618658rRc17VHI_2000.flv?txSecret=cdf3495cdb2acc88877bd08c28bc51d6&txTime=65d9d824&token=h5-douyu-0-11618658-316bfbfd62a533abb887b74e2a981b26&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383288737
+#EXTINF:-1 group-title="电视剧集",粤语港剧
+http://openhls-tct.douyucdn2.cn/dyliveflv3/6478650rdm0tG46t_2000.flv?txSecret=08f16b9212bb6ed7f0e414153a24ecfd&txTime=65d9d7f1&token=h5-douyu-0-6478650-cff0968d122a753a7c02e796139c4604&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=384139461
+#EXTINF:-1 group-title="电视剧集",经典港剧
+http://openhls-tct.douyucdn2.cn/dyliveflv3/11645048rDSJkFA6_2000.flv?txSecret=5f6d92e67c100fdeab637dedf46bd462&txTime=65d9d8b9&token=h5-douyu-0-11645048-860dc104afafd711a39692843e9fe716&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=382088106
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV1.png" group-title="央视",CCTV1
 http://114.253.78.248:8686/rtp/239.3.1.129:8008
 #EXTINF:-1,tvg-id="CCTV1备用" tvg-name="CCTV1备用" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV1.png" group-title="央视",CCTV1备用
@@ -153,6 +165,8 @@ http://114.253.78.248:8686/rtp/239.3.1.151:8144
 http://106.57.1.156:55555/udp/239.200.200.202:8784
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV8K.png" group-title="央视",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 group-title="🇹🇼台灣新聞",中天新聞
+https://www.youtube.com/live/oIgbl7t0S_w?si=HDLl1RkiMbpwN4DU
 #EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
 http://176868.cloud/98f6e8249687f3660aae9566cbaed3ad/76d61a35db48b096f5c24a72c4c382c5/20d3ad97742f3abe5b90acd3f24ef357/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
