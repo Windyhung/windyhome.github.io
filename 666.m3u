@@ -3,6 +3,8 @@
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rqQekiDm3_2000.flv?txSecret=c9d95cda003b42abecbedd6bd8b014a9&txTime=65c39142&token=h5-douyu-0-9817716-8903a356fba45bd44689bb11942e6e2f&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=381694503
 #EXTINF:-1 group-title="朝鲜",赵本山小品(高清)
 http://media-proxy.yy.com/livesystem/15013_xv_32160832_32160832_0_0_0-15013_xa_32160832_32160832_0_0_0.m3u8?org=yyweb&uuid=f73b2315f078411d93da2e4911fd79b9&t=1708679788&tk=12c4ae07e535c1572f74cb39c593c51e
+#EXTINF:-1 group-title="朝鲜",赵本山小品(高清)
+https://www.goodiptv.club/yy/1352227227
 #EXTINF:-1 group-title="朝鲜",宋小宝小品
 http://openhls-tct.douyucdn2.cn/dyliveflv3/9817729rxkZJQa6A_2000.flv?txSecret=d9082c237f8c989169f40f49465f38ae&txTime=65d88241&token=h5-douyu-0-9817729-354df667e7b74795f5ebcabea0fa27de&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=380386247
 #EXTINF:-1 group-title="朝鲜",相声小品
@@ -11,6 +13,12 @@ http://43.138.170.29:35455/yy/1354936217
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/9273031r591DQA7Y_2000.flv?txSecret=0e4cbb884d9d3ee405cd7dd3962916b4&txTime=65d880f6&token=h5-douyu-0-9273031-324296844997df7f3cf97c7eb9d1cf1e&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383624484
 #EXTINF:-1 group-title="朝鲜",快乐垂钓
 http://182.98.0.212:4022/udp/239.252.220.177:5140
+#EXTINF:-1 group-title="朝鲜",快乐垂钓
+http://111.225.114.100:808/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="朝鲜",快乐垂钓
+http://113.195.13.183:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="朝鲜",四海钓鱼
+http://113.195.13.183:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="朝鲜",四海钓鱼
 http://202.99.135.54:8888/rtp/239.253.93.243:6421
 #EXTINF:-1 group-title="朝鲜",贱贱钓鱼
@@ -97,6 +105,54 @@ http://mytv.dothome.co.kr/ch/catv/284.php
 https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
 #EXTINF:-1 group-title="思密达",KBSDRAMAHD
 http://api.kbs8808.com:9331/live2.php?id=KBSDRAMAHD&sid=.flv
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV1.png" group-title="央视",CCTV1
+http://114.253.78.248:8686/rtp/239.3.1.129:8008
+#EXTINF:-1,tvg-id="CCTV1备用" tvg-name="CCTV1备用" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV1.png" group-title="央视",CCTV1备用
+http://113.249.234.163:4545/rtp/235.254.198.1:1280
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV2.png" group-title="央视",CCTV2
+http://113.249.234.163:4545/rtp/235.254.198.52:1484
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV3.png" group-title="央视",CCTV3
+http://113.249.234.163:4545/rtp/235.254.198.53:1488
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV4.png" group-title="央视",CCTV4
+http://113.249.234.163:4545/rtp/235.254.198.183:7980
+#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+http://182.98.0.212:4022/udp/239.252.219.192:5140
+#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV4美洲.png" group-title="央视",CCTV4美洲
+http://182.98.0.212:4022/udp/239.252.219.193:5140
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV5.png" group-title="央视",CCTV5
+http://113.249.234.163:4545/rtp/235.254.198.54:1492
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV5+.png" group-title="央视",CCTV5+
+http://113.249.234.163:4545/rtp/235.254.198.122:1764
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV6.png" group-title="央视",CCTV6
+http://113.249.234.163:4545/rtp/235.254.198.55:1496
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV7.png" group-title="央视",CCTV7
+http://113.249.234.163:4545/rtp/235.254.198.56:1500
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV8.png" group-title="央视",CCTV8
+http://113.249.234.163:4545/rtp/235.254.198.57:1504
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV9.png" group-title="央视",CCTV9
+http://113.249.234.163:4545/rtp/235.254.198.58:1508
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV10.png" group-title="央视",CCTV10
+http://113.249.234.163:4545/rtp/235.254.198.59:1512
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV11.png" group-title="央视",CCTV11
+http://114.253.78.248:8686/rtp/239.3.1.152:8120
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV12.png" group-title="央视",CCTV12
+http://113.249.234.163:4545/rtp/235.254.198.60:1516
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV13.png" group-title="央视",CCTV13
+http://114.253.78.248:8686/rtp/239.3.1.124:8128
+#EXTINF:-1,tvg-id="CCTV13备用" tvg-name="CCTV13备用" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV13.png" group-title="央视",CCTV13备用
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV14.png" group-title="央视",CCTV14
+http://113.249.234.163:4545/rtp/235.254.198.61:1520
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV15.png" group-title="央视",CCTV15
+http://114.253.78.248:8686/rtp/239.3.1.153:8136
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV16.png" group-title="央视",CCTV16
+http://114.253.78.248:8686/rtp/239.3.1.184:8001
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV17.png" group-title="央视",CCTV17
+http://114.253.78.248:8686/rtp/239.3.1.151:8144
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV4K.png" group-title="央视",CCTV4K
+http://106.57.1.156:55555/udp/239.200.200.202:8784
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV8K.png" group-title="央视",CCTV8K
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
 http://176868.cloud/98f6e8249687f3660aae9566cbaed3ad/76d61a35db48b096f5c24a72c4c382c5/20d3ad97742f3abe5b90acd3f24ef357/index.m3u8
 #EXTINF:-1 group-title="🇹🇼台灣新聞",民視新聞
