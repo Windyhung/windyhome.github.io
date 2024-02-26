@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="朝鲜",赵本山小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rqQekiDm3_2000.flv?txSecret=c9d95cda003b42abecbedd6bd8b014a9&txTime=65c39142&token=h5-douyu-0-9817716-8903a356fba45bd44689bb11942e6e2f&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=381694503
-#EXTINF:-1 group-title="朝鲜",赵本山小品(高清)
-http://media-proxy.yy.com/livesystem/15013_xv_32160832_32160832_0_0_0-15013_xa_32160832_32160832_0_0_0.m3u8?org=yyweb&uuid=f73b2315f078411d93da2e4911fd79b9&t=1708679788&tk=12c4ae07e535c1572f74cb39c593c51e
-#EXTINF:-1 group-title="朝鲜",赵本山小品(高清)
-https://www.goodiptv.club/yy/1352227227
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rqQekiDm3_2000.flv?txSecret=5cd09c786e56d06c0686385b7e116275&txTime=65dc3f27&token=h5-douyu-0-9817716-8381cdacc2c3909fcc9946261195bbfa&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=381694503
 #EXTINF:-1 group-title="朝鲜",宋小宝小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3/9817729rxkZJQa6A_2000.flv?txSecret=d9082c237f8c989169f40f49465f38ae&txTime=65d88241&token=h5-douyu-0-9817729-354df667e7b74795f5ebcabea0fa27de&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=380386247
+http://openhls-tct.douyucdn2.cn/dyliveflv3/9817729rxkZJQa6A_2000.flv?txSecret=b524dd55be2fbe50334be78b7b60a52b&txTime=65dc3f82&token=h5-douyu-0-9817729-399d173d7e71da96e9b1dbd3b7870614&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=384098992
 #EXTINF:-1 group-title="朝鲜",相声小品
 http://43.138.170.29:35455/yy/1354936217
 #EXTINF:-1 group-title="朝鲜",辽宁小品
@@ -21,14 +17,6 @@ http://113.195.13.183:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=0&authid=
 http://113.195.13.183:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="朝鲜",四海钓鱼
 http://202.99.135.54:8888/rtp/239.253.93.243:6421
-#EXTINF:-1 group-title="朝鲜",贱贱钓鱼
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/1338316ri6ESmeDe_2000.flv?txSecret=a8ac5f6c4ccda99a7e9b46d85d0fbc32&txTime=65d881f6&token=h5-douyu-0-1338316-dab223cba235662c7747a9fd8b7a13ac&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383475789
-#EXTINF:-1 group-title="朝鲜",韩国钓鱼
-http://openhls-tct.douyucdn2.cn/dyliveflv3/10616765rTblZDVk_2000.flv?txSecret=a1f056753485852715f22772c8669c1c&txTime=65d88192&token=h5-douyu-0-10616765-47aab1e674b38b72004e9d552def26cd&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=383426138
-#EXTINF:-1 group-title="朝鲜",书岳钓鱼
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/10100206rLtSZLHs_2000.flv?txSecret=a0db46b7e5b67fffafaaecfac4c4c42c&txTime=65d881c5&token=h5-douyu-0-10100206-678971d1fabdcedaf4894a059f25405a&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383629292
-#EXTINF:-1 group-title="朝鲜",雪豹
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/11578904rrRWdelf_2000.flv?txSecret=43c07df21e70170203ea569e48381239&txTime=65d88506&token=h5-douyu-0-11578904-5bd99a12d8962f8ee836fc04760003da&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383404127
 #EXTINF:-1 group-title="朝鲜",朝鲜TV
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="朝鲜",朝鲜TV(备用)
