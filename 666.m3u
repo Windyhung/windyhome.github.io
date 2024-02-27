@@ -1,22 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="朝鲜",赵本山小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rqQekiDm3_2000.m3u8?txSecret=22791d92e2a139c723ac479d50b777fb&txTime=65dcb098&token=h5-douyu-0-9817716-b10c0764f7651f5a880b2982a428f32f&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=381694503
-#EXTINF:-1 group-title="朝鲜",赵本山小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rqQekiDm3_900.m3u8?txSecret=dd62bdbd5a2e88ba5a4102712c5ef226&txTime=65dcb0df&token=h5-douyu-0-9817716-22df50b18fd9bbe4b70685756d3f8f25&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=381694503
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rqQekiDm3_2000.flv?txSecret=ffcf066959251a34d48c64f7b2a6ee93&txTime=65dd8b53&token=h5-douyu-0-9817716-f3f2534f8d6b3904381beebd568b0d1a&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=381694503
 #EXTINF:-1 group-title="朝鲜",赵本山小品
 http://hls3a-akm.douyucdn.cn/live/9817716rqQekiDm3.m3u8
 #EXTINF:-1 group-title="朝鲜",春晚经典小品
 http://hs.flv.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.flv?wsSecret=be9ee3c68eb3bd2e90bff7cb0600556a&wsTime=65dde727&ctype=tars_mobile&fs=bgct&t=103&ver=1&sv=2110211124&seqid=3176186590544&uid=1467231543459&uuid=40275589
-#EXTINF:-1 group-title="朝鲜",春晚经典小品
-http://al.flv.huya.com/huyalive/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.flv?wsSecret=21d58e1e89a6bf66fcbe6b45bb6dda4f&wsTime=65dde727&ctype=tars_mobile&fs=bgct&t=103&ver=1&sv=2110211124&seqid=3176186590543&uid=1467231543459&uuid=40273925
 #EXTINF:-1 group-title="朝鲜",赵本山小品(高清)
 https://www.goodiptv.club/yy/32160832
 #EXTINF:-1 group-title="朝鲜",宋小宝小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3/9817729rxkZJQa6A_2000.flv?txSecret=b4f4699730b016724b66d1e39fd2a724&txTime=65dc8df3&token=h5-douyu-0-9817729-8e35f1d3a08d3f16eebc4ff0b24f4794&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=384098992
+http://openhls-tct.douyucdn2.cn/dyliveflv3/9817729rxkZJQa6A_2000.flv?txSecret=5871c951a9fcdf7db7e19909adbc8a6c&txTime=65dd8b77&token=h5-douyu-0-9817729-710ca87f77b99fc375453098c083ac3d&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=384098992
 #EXTINF:-1 group-title="朝鲜",相声小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9273031r591DQA7Y_2000.flv?txSecret=8e00abfb29b5cb9bf7db3e353f5b66fb&txTime=65dc42eb&token=h5-douyu-0-9273031-b6be5f4e4017cba448b9d167c9cb0301&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383624484
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/9067836rfpuXCSYb_2000.flv?txSecret=62d3e6a8aa487f3fd57cc2326cb35000&txTime=65dd8b95&token=h5-douyu-0-9067836-532a4567a29e19610a95e1867301cab1&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383624476
 #EXTINF:-1 group-title="朝鲜",辽宁小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9273031r591DQA7Y_2000.flv?txSecret=4b3e3c11243084d5c991a82f7a1482e2&txTime=65dc8e31&token=h5-douyu-0-9273031-b5dc1082fd770077dd51be1bb0507a27&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383624484
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/9273031r591DQA7Y_2000.m3u8?txSecret=3eb558d6d38d1917d52f1d68f495aef1&txTime=65dd8baf&token=h5-douyu-0-9273031-01e3bb96bc19be0be001de7c8193b02f&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383624484
 #EXTINF:-1 group-title="朝鲜",快乐垂钓
 http://182.98.0.212:4022/udp/239.252.220.177:5140
 #EXTINF:-1 group-title="朝鲜",快乐垂钓
