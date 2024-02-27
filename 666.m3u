@@ -14,8 +14,6 @@ http://openhls-tct.douyucdn2.cn/dyliveflv3a/9067836rfpuXCSYb_2000.flv?txSecret=6
 #EXTINF:-1 group-title="朝鲜",辽宁小品
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/9273031r591DQA7Y_2000.m3u8?txSecret=3eb558d6d38d1917d52f1d68f495aef1&txTime=65dd8baf&token=h5-douyu-0-9273031-01e3bb96bc19be0be001de7c8193b02f&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383624484
 #EXTINF:-1 group-title="朝鲜",快乐垂钓
-http://182.98.0.212:4022/udp/239.252.220.177:5140
-#EXTINF:-1 group-title="朝鲜",快乐垂钓
 http://111.225.114.100:808/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="朝鲜",快乐垂钓
 http://113.195.13.183:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=0&authid=0
