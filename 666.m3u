@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="朝鲜",赵本山小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rqQekiDm3_2000.flv?txSecret=ffcf066959251a34d48c64f7b2a6ee93&txTime=65dd8b53&token=h5-douyu-0-9817716-f3f2534f8d6b3904381beebd568b0d1a&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=381694503
-#EXTINF:-1 group-title="朝鲜",赵本山小品
-http://hls3a-akm.douyucdn.cn/live/9817716rqQekiDm3.m3u8
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rnyXHrLC7_2000.m3u8?txSecret=d0155dbcdb263f72bbde895d76862bcf&txTime=65faf1d3&token=h5-douyu-0-9817716-e8d398604941d2b5f010b26093c83342&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=385385291
 #EXTINF:-1 group-title="朝鲜",春晚经典小品
 http://hs.flv.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.flv?wsSecret=be9ee3c68eb3bd2e90bff7cb0600556a&wsTime=65dde727&ctype=tars_mobile&fs=bgct&t=103&ver=1&sv=2110211124&seqid=3176186590544&uid=1467231543459&uuid=40275589
 #EXTINF:-1 group-title="朝鲜",赵本山小品(高清)
@@ -10,19 +8,15 @@ https://www.goodiptv.club/yy/32160832
 #EXTINF:-1 group-title="朝鲜",宋小宝小品
 http://openhls-tct.douyucdn2.cn/dyliveflv3/9817729rxkZJQa6A_2000.flv?txSecret=5871c951a9fcdf7db7e19909adbc8a6c&txTime=65dd8b77&token=h5-douyu-0-9817729-710ca87f77b99fc375453098c083ac3d&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=384098992
 #EXTINF:-1 group-title="朝鲜",相声小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9067836rfpuXCSYb_2000.flv?txSecret=62d3e6a8aa487f3fd57cc2326cb35000&txTime=65dd8b95&token=h5-douyu-0-9067836-532a4567a29e19610a95e1867301cab1&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383624476
-#EXTINF:-1 group-title="朝鲜",辽宁小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9273031r591DQA7Y_2000.m3u8?txSecret=3eb558d6d38d1917d52f1d68f495aef1&txTime=65dd8baf&token=h5-douyu-0-9273031-01e3bb96bc19be0be001de7c8193b02f&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383624484
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/9273031r591DQA7Y_2000.m3u8?txSecret=f368805af69865f3390211dc4b636fec&txTime=65faf299&token=h5-douyu-0-9273031-f982920c831ce4da3ce1c98a7b7effa6&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383624484
 #EXTINF:-1 group-title="朝鲜",快乐垂钓
-http://111.225.114.100:808/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+http://gzly.hkychina.com:6002/udp/239.252.220.177:5140
 #EXTINF:-1 group-title="朝鲜",快乐垂钓
 http://113.195.13.183:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="朝鲜",四海钓鱼
-http://113.195.13.183:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0
+http://baidu.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8
 #EXTINF:-1 group-title="朝鲜",四海钓鱼
 http://202.99.135.54:8888/rtp/239.253.93.243:6421
-#EXTINF:-1 group-title="朝鲜",雪豹
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/11578904rrRWdelf_2000.flv?txSecret=9dd1d8259542641b53e7ea31831e4ede&txTime=65dc8f8f&token=h5-douyu-0-11578904-8c924cbc3aea7f18e5c1fc1a0a704113&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383404127
 #EXTINF:-1 group-title="朝鲜",朝鲜TV
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="朝鲜",朝鲜TV(备用)
@@ -107,6 +101,8 @@ INF:-1 group-title="电视剧集",回忆港剧
 http://openhls-tct.douyucdn2.cn/dyliveflv3/5061550r9UZi0Pls_2000.flv?txSecret=c11bb2b9d30b7192866e9a546252c6ee&txTime=65dc8f24&token=h5-douyu-0-5061550-a1da87c4e1e0420f4ef7aa881e422b19&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=373343283
 #EXTINF:-1 group-title="电视剧集",经典港剧
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/11618658rRc17VHI_2000.flv?txSecret=2d49e898551b47acffacf9dc187f4bfd&txTime=65dc8f3f&token=h5-douyu-0-11618658-ed15964bdad6efce872220efde50351a&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383288737
+#EXTINF:-1 group-title="电视剧集",使徒行者
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/9019945rT8zZ0qjF_2000.m3u8?txSecret=2161d81738518398ad465db460f4f033&txTime=65faf18e&token=h5-douyu-0-9019945-c8a3773fc9b99de7e3d669d2db66ef95&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=386246727
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV1
