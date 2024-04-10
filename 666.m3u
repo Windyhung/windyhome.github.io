@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="朝鲜",赵本山小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rmgwpe6Ye_2000.m3u8?txSecret=5d7918d97501ce1fb84971a017d601b7&txTime=66167b10&token=h5-douyu-0-9817716-95199e3360ebad91df429ac92b310df3&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=388561015
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rmgwpe6Ye_2000.flv?txSecret=8885a3678a2b48e141149598225cdb9e&txTime=6616bdb2&token=h5-douyu-0-9817716-45a8be50c54f48f2a0490c7eeda03c7f&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=388561015
 #EXTINF:-1 group-title="朝鲜",赵本山小品
 http://epg.112114.xyz/douyu/9817716
 #EXTINF:-1 group-title="朝鲜",赵本山小品(高清)
 https://www.goodiptv.club/yy/32160832
 #EXTINF:-1 group-title="朝鲜",宋小宝小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9273031rORojXOhx_2000.flv?txSecret=e8e5bb7cd841155e2516a11bfa95979c&txTime=65fd12d4&token=h5-douyu-0-9273031-b41b16596c84f557041b73d9e073a952&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=387440050
+http://openhls-tct.douyucdn2.cn/dyliveflv3/9817729rxkZJQa6A_2000.flv?txSecret=1bb1a2814f94551a1824e381ad9e3a86&txTime=6616bddf&token=h5-douyu-0-9817729-fb50a3d5ab4d459d50ed9f7a62e5d8dc&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=387818578
 #EXTINF:-1 group-title="朝鲜",宋小宝小品
 http://epg.112114.xyz/douyu/9817729
 #EXTINF:-1 group-title="朝鲜",相声小品
-https://hw.flv.huya.com/huyalive/1199640838194-1199640838194-5776570424292802560-2399281799844-10057-A-0-1.flv?wsSecret=c2115712014d6dc2df1fc7f14d861d4f&wsTime=6617b217&u=0&seqid=17127425498039126&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+http://openhls-tct.douyucdn2.cn/dyliveflv3/9067836raxU5zmjQ_2000.flv?txSecret=8be176445b7f1fe94ec0ceb3eeacac5d&txTime=6616bdf8&token=h5-douyu-0-9067836-3566f4e53d0515875a5f286f049cdc78&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=387440045
 #EXTINF:-1 group-title="朝鲜",相声小品
 http://epg.112114.xyz/douyu/9067836
 #EXTINF:-1 group-title="朝鲜",快乐垂钓
@@ -96,19 +96,19 @@ https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
 #EXTINF:-1 group-title="思密达",KBSDRAMAHD
 http://api.kbs8808.com:9331/live2.php?id=KBSDRAMAHD&sid=.flv
 #EXTINF:-1 group-title="电视剧集",人气港剧天地1
-
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/4290711raUeWKH4K_2000.flv?txSecret=93ef50b0ea68d8c38ce937cb3c41a869&txTime=6616bed0&token=h5-douyu-0-4290711-218e28d9f0e60f3b3d7e37e70cb7f652&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=388713058
 #EXTINF:-1 group-title="电视剧集",人气港剧天地2
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/5522351rpFnj6VDX_2000.m3u8?txSecret=3aeda22c07dab90ee39407e9fa56eb37&txTime=66167c1e&token=h5-douyu-0-5522351-89adc7b0cbc83ec257db12411b756e53&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=388713132
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/5522351rpFnj6VDX_2000.flv?txSecret=75accd41a90240b2383111d83de5f616&txTime=6616c122&token=h5-douyu-0-5522351-902f280f73c5b43864daae3327fe5bc3&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=388713132
 #EXTINF:-1 group-title="电视剧集",经典怀旧港剧3
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/5261342ryTREjNQz_2000.flv?txSecret=e3717a10b7014f01e0490d547d40fe0b&txTime=66151d4a&token=h5-douyu-0-5261342-6ab5b26d12356172d70f566aabeb6420&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=388713178
 INF:-1 group-title="电视剧集",回忆港剧
 http://openhls-tct.douyucdn2.cn/dyliveflv1/4549169rYlTmE1tn_2000.m3u8?txSecret=88296e00d48a323b7fffc6009727d407&txTime=66167c3c&token=h5-douyu-0-4549169-ba87f8734da33d462c1e35aa38500040&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=377394311
-#EXTINF:-1 group-title="电视剧集",洗冤录
-https://hw.flv.huya.com/huyalive/1239543150207-1239543150207-11134998891529764864-2479086423870-10057-A-0-1.flv?wsSecret=437e915003ce958d32192dbf8e8d2557&wsTime=6617b253&u=0&seqid=17127426093382242&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&t=103
+#EXTINF:-1 group-title="电视剧集",人气港剧
+http://openhls-tct.douyucdn2.cn/dyliveflv1/4549169rYlTmE1tn_2000.flv?txSecret=9e36e192e3b0d82c060f9e8eea1f36c7&txTime=6616c181&token=h5-douyu-0-4549169-60d25b1a6a55ca8a11cdf4278e9a8bde&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=377394311
 #EXTINF:-1 group-title="电视剧集",经典港剧
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/11618658rRc17VHI_2000.flv?txSecret=2d49e898551b47acffacf9dc187f4bfd&txTime=65dc8f3f&token=h5-douyu-0-11618658-ed15964bdad6efce872220efde50351a&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383288737
 #EXTINF:-1 group-title="电视剧集",柯南
-http://openhls-tct.douyucdn2.cn/dyliveflv3/6484910rEhDxlsUv_2000.m3u8?txSecret=ba33ae2ae540fcff4f12f3277fe02ca1&txTime=66167c5c&token=h5-douyu-0-6484910-b79713a9a4e270b0cb937d258b082be0&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=388777322
+http://openhls-tct.douyucdn2.cn/dyliveflv3/6484910rEhDxlsUv_2000.flv?txSecret=ae42e1c08a4daec7353bcb09df14be6c&txTime=6616c1a1&token=h5-douyu-0-6484910-c1e933755b5cceff00de9584ad4c940b&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=388777322
 #EXTINF:-1 group-title="电视剧集",经典电影
 http://epg.112114.xyz/douyu/431460
 #EXTINF:-1 group-title="央视频道",CCTV1
