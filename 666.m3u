@@ -120,12 +120,16 @@ http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KBS1TV.kr",KBS 1TV [Not 24/7]
 http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS1TV.kr",KBS 1TV [Not 24/7]
+https://parselink.winnie.in.th/kr_live/kbs.php?id=11
 #EXTINF:-1 tvg-id="KBS1TV.kr",KBS 1 UHD (720p)
 http://202.60.106.14:8080/200/playlist.m3u8
 #EXTINF:-1 tvg-id="KBS1TV.kr",KBS 1 UHD (720p)
 http://202.60.106.14:21585/200/playlist.m3u8
 #EXTINF:-1 tvg-id="KBS2TV.kr",KBS 2TV [Not 24/7]
 http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="KBS2TV.kr",KBS 2TV [Not 24/7]
+https://parselink.winnie.in.th/kr_live/kbs.php?id=12
 #EXTINF:-1 tvg-id="KBSDrama.kr",KBS Drama (480p)
 http://mytv.dothome.co.kr/ch/catv/2.php
 #EXTINF:-1 tvg-id="KBSJoy.kr",KBS Joy (480p)
