@@ -310,11 +310,13 @@ https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
 #EXTINF:-1 group-title="思密达",KBSDRAMAHD
 http://api.kbs8808.com:9331/live2.php?id=KBSDRAMAHD&sid=.flv
 #EXTINF:-1 group-title="电视剧集",人气港剧天地1
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/4290711raUeWKH4K_2000.flv?txSecret=93ef50b0ea68d8c38ce937cb3c41a869&txTime=6616bed0&token=h5-douyu-0-4290711-218e28d9f0e60f3b3d7e37e70cb7f652&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=388713058
+http://openhls-hw.douyucdn2.cn/live/4290711rlU1J8cVV_2000.m3u8?txSecret=4134a36b926608130a0c13d287aa3c60&txTime=678c889c&token=h5-douyu-0-4290711-cefca55b8d8291248294003ffd4b4252&did=10000000000000000000000000001501&origin=hw&vhost=play3&sid=407586463
 #EXTINF:-1 group-title="电视剧集",人气港剧天地2
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/5522351rpFnj6VDX_2000.flv?txSecret=75accd41a90240b2383111d83de5f616&txTime=6616c122&token=h5-douyu-0-5522351-902f280f73c5b43864daae3327fe5bc3&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=388713132
+http://openhls-tct.douyucdn2.cn/dyliveflv3/5522351rzdJDguOj_2000.m3u8?txSecret=8250cf0f0bbd26f27b77086d82741d9c&txTime=678c88e8&token=h5-douyu-0-5522351-4f10a9f1ac3b2a3bdc7549353b6a26d7&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=404553250
 #EXTINF:-1 group-title="电视剧集",经典怀旧港剧3
 http://zzy789.xyz/douyu1.php?id=5261342
+#EXTINF:-1 group-title="电视剧集",经典怀旧港剧3
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/5261342rxvi9fkOP_2000.m3u8?txSecret=280336b312b4fa56ddb3c8406907ded4&txTime=678c890f&token=h5-douyu-0-5261342-268f58a913788172af3a17eb4a2e33d3&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=404815639
 #EXTINF:-1 group-title="电视剧集",最经典怀旧的电视剧
 http://zzy789.xyz/douyu1.php?id=5061550
 INF:-1 group-title="电视剧集",回忆港剧
@@ -323,6 +325,8 @@ http://epg.112114.xyz/douyu/11618658
 http://zzy789.xyz/douyu1.php?id=4549169
 #EXTINF:-1 group-title="电视剧集",经典港剧
 http://zzy789.xyz/douyu1.php?id=9548850
+#EXTINF:-1 group-title="电视剧集",华语喜剧
+http://zzy789.xyz/douyu1.php?id=276200
 #EXTINF:-1 group-title="电视剧集",柯南
 http://zzy789.xyz/douyu1.php?id=6484910
 #EXTINF:-1 group-title="电视剧集",港台 科幻 动作 喜剧
