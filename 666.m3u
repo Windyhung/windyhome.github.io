@@ -317,7 +317,7 @@ https://parselink.winnie.in.th/kr_live/kbs.php?id=12
 #EXTINF:-1 group-title="思密达",KBS Drama
 http://mytv.dothome.co.kr/ch/catv/2.php
 #EXTINF:-1 group-title="思密达",MBC
-http://api.kbs8808.com:9331/live2.php?id=MBCHD&sid=.flv
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="思密达",MBC
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="思密达",MBC
@@ -362,6 +362,8 @@ https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="思密达",MBC
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 group-title="思密达",MBC
+http://api.kbs8808.com:9331/live2.php?id=MBCHD&sid=.flv
 #EXTINF:-1 group-title="思密达",SBS
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="思密达",SBS
