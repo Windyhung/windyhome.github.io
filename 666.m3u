@@ -391,9 +391,9 @@ https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
 #EXTINF:-1 group-title="思密达",KBSDRAMAHD
 http://api.kbs8808.com:9331/live2.php?id=KBSDRAMAHD&sid=.flv
 #EXTINF:-1 group-title="电视剧集",人气港剧天地1
-http://openhls-hw.douyucdn2.cn/live/4290711rlU1J8cVV_2000.m3u8?txSecret=4134a36b926608130a0c13d287aa3c60&txTime=678c889c&token=h5-douyu-0-4290711-cefca55b8d8291248294003ffd4b4252&did=10000000000000000000000000001501&origin=hw&vhost=play3&sid=407586463
-#EXTINF:-1 group-title="电视剧集",人气港剧天地1
 https://www.goodiptv.club/douyu/4290711
+#EXTINF:-1 group-title="电视剧集",人气港剧天地1
+http://zzy789.xyz/douyu1.php?id=4290711
 #EXTINF:-1 group-title="电视剧集",人气港剧天地2
 https://www.goodiptv.club/douyu/5522351
 #EXTINF:-1 group-title="电视剧集",经典怀旧港剧3
