@@ -35,8 +35,12 @@ https://www.goodiptv.club/huya/29560227
 https://www.goodiptv.club/huya/30080192
 #EXTINF:-1 group-title="朝鲜",宋小宝小品
 https://www.goodiptv.club/douyu/9817729
+#EXTINF:-1 group-title="朝鲜",宋小宝小品
+http://zzy789.xyz/douyu1.php?id=9817729
 #EXTINF:-1 group-title="朝鲜",相声小品
 http://epg.112114.xyz/douyu/9067836
+#EXTINF:-1 group-title="朝鲜",相声小品
+http://zzy789.xyz/douyu1.php?id=9067836
 #EXTINF:-6 group-title="朝鲜",快乐垂钓
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
 #EXTINF:-7 group-title="朝鲜",快乐垂钓
@@ -56,8 +60,8 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8
 http://202.99.135.54:8888/rtp/239.253.93.243:6421
 #EXTINF:-1 group-title="朝鲜",朝鲜TV
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 group-title="朝鲜",朝鲜TV(备用)
-https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 group-title="朝鲜",朝鲜TV
+https://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 group-title="朝鲜",延边卫视
 http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 #EXTINF:-1 group-title="朝鲜",延边卫视1
@@ -66,8 +70,7 @@ http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 group-title="朝鲜",延边卫视2
 https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
-#EXTINF:-1 group-title="朝鲜",法证先锋2
-https://www.goodiptv.club/yy/1354888736
+
 
 #EXTINF:-1 tvg-id="ABN.kr",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -428,6 +431,8 @@ http://zzy789.xyz/douyu1.php?id=1487654
 http://zzy789.xyz/douyu1.php?id=434971
 #EXTINF:-1 group-title="电视剧集",经典电影
 http://zzy789.xyz/douyu1.php?id=431460
+#EXTINF:-1 group-title="电视剧集",法证先锋2
+https://www.goodiptv.club/yy/1354888736
 
 
 
