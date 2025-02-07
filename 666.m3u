@@ -57,6 +57,12 @@ http://wouu.net:9977/udp/239.93.1.151:5140
 http://nas.hssvm.com:8888/udp/225.1.2.18:5002
 #EXTINF:-21 group-title="朝鲜",快乐垂钓
 rtp://239.3.1.164:8001
+#EXTINF:-21 group-title="朝鲜",韩国钓鱼
+https://lunbo.freetv.top/douyu/10616765
+#EXTINF:-21 group-title="朝鲜",韩国钓鱼
+http://epg.112114.xyz/douyu/10616765
+#EXTINF:-21 group-title="朝鲜",韩国钓鱼
+http://zzy789.xyz/douyu1.php?id=10616765
 #EXTINF:-21 group-title="朝鲜",书岳钓鱼
 https://lunbo.freetv.top/douyu/10100206
 #EXTINF:-21 group-title="朝鲜",书岳钓鱼
