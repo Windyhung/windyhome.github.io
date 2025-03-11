@@ -331,6 +331,8 @@ https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 #EXTINF:-1 group-title="思密达",KBS1
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 group-title="思密达",KBS1
+http://47.237.74.77:7777/kbs.php?id=1
+#EXTINF:-1 group-title="思密达",KBS1
 https://parselink.winnie.in.th/kr_live/kbs.php?id=11
 #EXTINF:-1 group-title="思密达",KBS1
 http://202.60.106.14:8080/200/playlist.m3u8
@@ -339,9 +341,13 @@ http://202.60.106.14:21585/200/playlist.m3u8
 #EXTINF:-1 group-title="思密达",KBS2
 http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1 group-title="思密达",KBS2
+http://47.237.74.77:7777/kbs.php?id=2
+#EXTINF:-1 group-title="思密达",KBS2
 https://parselink.winnie.in.th/kr_live/kbs.php?id=12
 #EXTINF:-1 group-title="思密达",KBS Drama
 http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 group-title="思密达",KBS World
+http://47.237.74.77:7777/kbs.php?id=3
 #EXTINF:-1 group-title="思密达",MBC
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="思密达",MBC
@@ -414,6 +420,8 @@ https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 http://mytv.dothome.co.kr/ch/catv/284.php
 #EXTINF:-1 group-title="思密达",SBS
 https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
+#EXTINF:-1 group-title="思密达",KBS News
+http://47.237.74.77:7777/kbs.php?id=4
 #EXTINF:-1 group-title="思密达",KBSDRAMAHD
 http://api.kbs8808.com:9331/live2.php?id=KBSDRAMAHD&sid=.flv
 #EXTINF:-1 group-title="电视剧集",人气港剧天地1
