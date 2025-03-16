@@ -30,6 +30,7 @@ https://lunbo.freetv.top/yy/1354889035
 #EXTINF:-1 group-title="朝鲜",陈佩斯
 https://www.goodiptv.club/huya/20985776
 #EXTINF:-1 group-title="朝鲜",经典相声小品
+
 https://www.goodiptv.club/huya/29982631
 #EXTINF:-1 group-title="朝鲜",春晚小品
 https://www.goodiptv.club/huya/11602068
@@ -441,6 +442,10 @@ http://47.237.74.77:35455/douyu/5261342
 http://zzy789.xyz/douyu1.php?id=5261342
 #EXTINF:-1 group-title="电视剧集",经典怀旧港剧3
 https://www.goodiptv.club/douyu/5261342
+#EXTINF:-1 group-title="电视剧集",高分港剧
+https://www.goodiptv.club/yy/1382735542
+#EXTINF:-1 group-title="电视剧集",高分港剧
+http://47.237.74.77:35455/yy/1382735542
 #EXTINF:-1 group-title="电视剧集",B站港剧1
 http://47.237.74.77:35455/bilibili/23333734
 #EXTINF:-1 group-title="电视剧集",B站港剧2
@@ -483,6 +488,14 @@ https://www.goodiptv.club/huya/11342386
 https://8.138.90.107/huya.php?id=11342386
 #EXTINF:-1 group-title="电视剧集",成龙
 http://47.237.74.77:35455/huya/11342386
+#EXTINF:-1 group-title="电视剧集",成龙yy
+http://47.237.74.77:35455/yy/1354888751
+#EXTINF:-1 group-title="电视剧集",成龙yy
+https://www.goodiptv.club/yy/1354888751
+#EXTINF:-1 group-title="电视剧集",成龙B站
+http://47.237.74.77:35455/bilibili/1354888751
+#EXTINF:-1 group-title="电视剧集",成龙B站
+https://www.goodiptv.club/bilibili/1354888751
 #EXTINF:-1 group-title="电视剧集",甄子丹
 http://47.237.74.77:35455/huya/11352935
 #EXTINF:-1 group-title="电视剧集",甄子丹
@@ -539,6 +552,14 @@ https://www.goodiptv.club/huya/29862625
 http://47.237.74.77:35455/douyu/12472697
 #EXTINF:-1 group-title="电视剧集",宫崎骏
 http://zzy789.xyz/douyu1.php?id=12472697
+#EXTINF:-1 group-title="电视剧集",我和僵尸
+http://zzy789.xyz/douyu1.php?id=74374
+#EXTINF:-1 group-title="电视剧集",我和僵尸
+http://47.237.74.77:35455/douyu/74374
+#EXTINF:-1 group-title="电视剧集",我和僵尸
+https://www.goodiptv.club/douyu/74374
+#EXTINF:-1 group-title="电视剧集",我和僵尸
+http://epg.112114.xyz/douyu/74374
 #EXTINF:-1 group-title="电视剧集",港台 科幻 动作 喜剧
 http://zzy789.xyz/douyu1.php?id=434971
 #EXTINF:-1 group-title="电视剧集",经典电影
