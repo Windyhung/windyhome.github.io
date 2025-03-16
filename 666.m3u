@@ -492,10 +492,6 @@ http://47.237.74.77:35455/huya/11342386
 http://47.237.74.77:35455/yy/1354888751
 #EXTINF:-1 group-title="电视剧集",成龙yy
 https://www.goodiptv.club/yy/1354888751
-#EXTINF:-1 group-title="电视剧集",成龙B站
-http://47.237.74.77:35455/bilibili/1354888751
-#EXTINF:-1 group-title="电视剧集",成龙B站
-https://www.goodiptv.club/bilibili/1354888751
 #EXTINF:-1 group-title="电视剧集",甄子丹
 http://47.237.74.77:35455/huya/11352935
 #EXTINF:-1 group-title="电视剧集",甄子丹
@@ -548,6 +544,10 @@ https://www.goodiptv.club/huya/30527430
 http://47.237.74.77:35455/huya/29862625
 #EXTINF:-1 group-title="电视剧集",小新3
 https://www.goodiptv.club/huya/29862625
+#EXTINF:-1 group-title="电视剧集",小新4
+http://47.237.74.77:35455/bilibili/30224749
+#EXTINF:-1 group-title="电视剧集",小新4
+https://www.goodiptv.club/bilibili/30224749
 #EXTINF:-1 group-title="电视剧集",宫崎骏
 http://47.237.74.77:35455/douyu/12472697
 #EXTINF:-1 group-title="电视剧集",宫崎骏
