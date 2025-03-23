@@ -430,6 +430,8 @@ https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
 http://47.237.74.77:7777/kbs.php?id=4
 #EXTINF:-1 group-title="思密达",KBSDRAMAHD
 http://api.kbs8808.com:9331/live2.php?id=KBSDRAMAHD&sid=.flv
+
+
 #EXTINF:-1 group-title="电视剧集",人气港剧天地1
 http://47.237.74.77:35455/douyu/4290711
 #EXTINF:-1 group-title="电视剧集",人气港剧天地1
@@ -446,10 +448,26 @@ http://47.237.74.77:35455/douyu/5261342
 http://zzy789.xyz/douyu1.php?id=5261342
 #EXTINF:-1 group-title="电视剧集",经典怀旧港剧3
 https://www.goodiptv.club/douyu/5261342
+#EXTINF:-1 group-title="电视剧集",冰冰港剧
+http://47.237.74.77:35455/douyu/74374
+#EXTINF:-1 group-title="电视剧集",冰冰港剧
+https://www.goodiptv.club/douyu/74374
+#EXTINF:-1 group-title="电视剧集",冰冰港剧
+http://zzy789.xyz/douyu1.php?id=74374
+#EXTINF:-1 group-title="电视剧集",冰冰港剧
+http://epg.112114.xyz/douyu/74374
 #EXTINF:-1 group-title="电视剧集",高分港剧
 https://www.goodiptv.club/yy/1382735542
-#EXTINF:-1 group-title="电视剧集",高分港剧
+#EXTINF:-1 group-title="电视剧集",高分港剧yy
 http://47.237.74.77:35455/yy/1382735542
+#EXTINF:-1 group-title="电视剧集",港剧
+http://47.237.74.77:35455/douyu/5061550
+#EXTINF:-1 group-title="电视剧集",港剧
+https://www.goodiptv.club/douyu/5061550
+#EXTINF:-1 group-title="电视剧集",港剧
+http://zzy789.xyz/douyu1.php?id=5061550
+#EXTINF:-1 group-title="电视剧集",港剧
+http://epg.112114.xyz/douyu/5061550
 #EXTINF:-1 group-title="电视剧集",B站港剧1
 http://47.237.74.77:35455/bilibili/23333734
 #EXTINF:-1 group-title="电视剧集",B站港剧2
