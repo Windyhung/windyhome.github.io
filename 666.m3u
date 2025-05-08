@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="朝鲜",한국낚시
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_561.m3u8
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
+#EXTINF:-1 group-title="朝鲜",한국낚시
+http://www.hwado.net/webtv/public/1.php
+#EXTINF:-1 group-title="朝鲜",한국낚시
+http://www.hwado.net/webtv/public/3.php
 #EXTINF:-1 group-title="朝鲜",【亮剑】的直播间
 http://47.237.74.77:35455/huya/30080238
 #EXTINF:-1 group-title="朝鲜",【亮剑】的直播间
