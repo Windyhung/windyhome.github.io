@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="朝鲜",한국낚시的直播间
-https://tv.kakao.com/channel/2731729/livelink/60506747
-#EXTINF:-1 group-title="朝鲜",한국낚시的直播间
-http://47.237.74.77:7777/kakao_proxy.php?id=1
+#EXTINF:-1 group-title="朝鲜",한국낚시
+https://raw.githubusercontent.com/MyeongJun-Park/iptv/6cb3cdd8600936f33bf83d279df1adedf4c95912/korean.m3u
 #EXTINF:-1 group-title="朝鲜",【亮剑】的直播间
 http://47.237.74.77:35455/huya/30080238
 #EXTINF:-1 group-title="朝鲜",【亮剑】的直播间
