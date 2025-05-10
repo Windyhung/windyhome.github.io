@@ -109,232 +109,6 @@ http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 group-title="朝鲜",延边卫视2
 https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
 
-
-#EXTINF:-1 group-title="韩国",ABN TV 
-https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 group-title="韩国",Arirang Radio 
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang Radio 
-http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang Radio 
-http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang Radio 
-http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang Radio 
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang TV 
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang TV 
-http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang TV 
-http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang TV 
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang TV 
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang TV 
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang TV 
-https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang TV UN 
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",BBS Buddhist Broadcasting 
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",BTN TV 
-https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",CGNTV South Korea 
-https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
-#EXTINF:-1 group-title="韩国",Channel A 
-http://www.hwado.net/webtv/catv/52_440DDPPJ.php
-#EXTINF:-1 group-title="韩国",Channel A 
-http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
-#EXTINF:-1 group-title="韩国",CJ OnStyle 
-https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 group-title="韩国",CJ OnStyle Plus 
-https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 group-title="韩国",CTS기독교TV 
-https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-#EXTINF:-1 group-title="韩国",EBS 1  
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS 1  
-https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS 2  
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS E  
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS kids  
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS+ 1 
-https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS+ 2 
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",FGTV 
-https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",GCN24 Korean 
-http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Gongyoung Shopping 
-https://etv.publichs.com/live5.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",GoodTV 
-http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="韩国",GS My Shop 
-https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",GS Shop 
-https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",GugakTV 국악방송 
-https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Gugbang TV  
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Home & Shopping 
-https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Hyundai Home Shopping 
-https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Hyundai Home Shopping Plus 
-https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",JCN TV 
-https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
-#EXTINF:-1 group-title="韩国",Job Plus TV  
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Job Plus TV  
-https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="韩国",KBS 1TV 
-http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 group-title="韩国",KBS 1 UHD 
-http://202.60.106.14:21585/200/playlist.m3u8
-#EXTINF:-1 group-title="韩国",KBS 2TV 
-http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 group-title="韩国",KBS Drama 
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 group-title="韩国",KBS Joy 
-http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 group-title="韩国",KBS Kids 
-http://mytv.dothome.co.kr/ch/catv/6.php
-#EXTINF:-1 group-title="韩国",KBS Life 
-http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1 group-title="韩国",KBS LiveCam DokDo 
-http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",KBS Story 
-http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1 group-title="韩国",KBS World
-http://mytv.dothome.co.kr/ch/catv/7.php
-#EXTINF:-1 group-title="韩国",KCTV
-http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Korea TV 
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Korean Song Channel 
-http://live.kytv.co.kr:8080/hls/stream.m3u8
-#EXTINF:-1 group-title="韩国",KShopping 
-https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Lotte Home Shopping 
-https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
-#EXTINF:-1 group-title="韩国",Lotte OneTV 
-https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
-#EXTINF:-1 group-title="韩国",MBC Andong   
-http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBC Busan   
-https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBC Chuncheon   
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBC Chungbuk   
-http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBC Daegu   
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBC Daejeon   
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBC Drama  
-http://mytv.dothome.co.kr/ch/catv/26.php
-#EXTINF:-1 group-title="韩国",MBC Gangwon   
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBC Gwangju    
-https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBC Gyeongnam   
-https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBC Jeju   
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBC Jeonju 
-https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBC Mokpo   
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBC Net  
-http://mytv.dothome.co.kr/ch/catv/28.php
-#EXTINF:-1 group-title="韩国",MBC TV 
-http://www.hwado.net/webtv/catv/503_CFEA7803.php
-#EXTINF:-1 group-title="韩国",MBC Yeosu   
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MTN 
-http://183.110.27.87/mtnlive/720/playlist.m3u8
-#EXTINF:-1 group-title="韩国",National Assembly TV 
-https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
-#EXTINF:-1 group-title="韩国",NBS Korea Agricultural Broadcasting 
-https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 group-title="韩国",NHTV 
-http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-#EXTINF:-1 group-title="韩国",NS Home Shopping 
-https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
-#EXTINF:-1 group-title="韩国",NS Shop Plus 
-https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
-#EXTINF:-1 group-title="韩国",OBS Gyeongin TV   
-https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",OCN 
-http://202.60.106.14:8080/207/playlist.m3u8
-#EXTINF:-1 group-title="韩国",OCN 
-http://202.60.106.14:21585/207/playlist.m3u8
-#EXTINF:-1 group-title="韩国",OUN 
-https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 group-title="韩国",RTV 
-https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8
-#EXTINF:-1 group-title="韩国",RUTC TV 
-http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",SBS 
-http://www.hwado.net/webtv/catv/502_76142D8F.php
-#EXTINF:-1 group-title="韩国",SBS
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 group-title="韩国",SBS
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",SBS
-http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 group-title="韩国",SBS
-http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",SBS
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="韩国",SBS
-https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 group-title="韩国",SBS
-http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
-#EXTINF:-1 group-title="韩国",SBS
-http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
-#EXTINF:-1 group-title="韩国",SBS
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="韩国",SBS
-http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Shinsegae Shopping TV 
-https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Shopping NT 
-https://live.shoppingntmall.com/live/10011.m3u8
-#EXTINF:-1 group-title="韩国",STB 
-https://606d65214d80f.streamlock.net/live-stb/_definst_/113988c056b574662480f93ea08de94888b475fb32f740d2449552e043298002/playlist.m3u8
-#EXTINF:-1 group-title="韩国",TBS 
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv",TV Chosun 
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 group-title="韩国" http-referrer="http://broadcast.tvchosun.com/onair/on2.cstv",TV Chosun 2 
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="韩国",tvN Asia  
-http://210.210.155.37/dr9445/h/h20/index.m3u8
-#EXTINF:-1 group-title="韩国",tvN Movies  
-http://210.210.155.37/dr9445/h/h21/index.m3u8
-#EXTINF:-1 group-title="韩国",W Shopping 
-https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-#EXTINF:-1 group-title="韩国",WBC TV 
-https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-#EXTINF:-1 group-title="韩国",WBS TV 
-http://157.245.196.186/live/livestream.m3u8
-#EXTINF:-1 group-title="韩国",YTN 
-http://202.60.106.14:8080/214/playlist.m3u8
-#EXTINF:-1 group-title="韩国",YTN 
-http://202.60.106.14:21585/214/playlist.m3u8
-
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1
 http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1
@@ -364,8 +138,6 @@ http://mytv.dothome.co.kr/ch/catv/284.php
 http://1.214.67.38/vod/50301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
 http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
-https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
@@ -670,6 +442,232 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 http://112.214.255.201/hls/ch02/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",ABN TV 
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 group-title="韩国",Arirang Radio 
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang Radio 
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang Radio 
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang Radio 
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang Radio 
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang TV 
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang TV 
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang TV 
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang TV 
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang TV 
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang TV 
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang TV 
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang TV UN 
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",BBS Buddhist Broadcasting 
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",BTN TV 
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 group-title="韩国",CGNTV South Korea 
+https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+#EXTINF:-1 group-title="韩国",Channel A 
+http://www.hwado.net/webtv/catv/52_440DDPPJ.php
+#EXTINF:-1 group-title="韩国",Channel A 
+http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
+#EXTINF:-1 group-title="韩国",CJ OnStyle 
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 group-title="韩国",CJ OnStyle Plus 
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 group-title="韩国",CTS기독교TV 
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 group-title="韩国",EBS 1  
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国",EBS 1  
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国",EBS 2  
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国",EBS E  
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国",EBS kids  
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国",EBS+ 1 
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国",EBS+ 2 
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国",FGTV 
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",GCN24 Korean 
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Gongyoung Shopping 
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",GoodTV 
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="韩国",GS My Shop 
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",GS Shop 
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",GugakTV 국악방송 
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Gugbang TV  
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Home & Shopping 
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Hyundai Home Shopping 
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Hyundai Home Shopping Plus 
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",JCN TV 
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+#EXTINF:-1 group-title="韩国",Job Plus TV  
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Job Plus TV  
+https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="韩国",KBS 1TV 
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 group-title="韩国",KBS 1 UHD 
+http://202.60.106.14:21585/200/playlist.m3u8
+#EXTINF:-1 group-title="韩国",KBS 2TV 
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 group-title="韩国",KBS Drama 
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 group-title="韩国",KBS Joy 
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 group-title="韩国",KBS Kids 
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 group-title="韩国",KBS Life 
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 group-title="韩国",KBS LiveCam DokDo 
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",KBS Story 
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 group-title="韩国",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 group-title="韩国",KCTV
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Korea TV 
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Korean Song Channel 
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1 group-title="韩国",KShopping 
+https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Lotte Home Shopping 
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1 group-title="韩国",Lotte OneTV 
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 group-title="韩国",MBC Andong   
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MBC Busan   
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MBC Chuncheon   
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MBC Chungbuk   
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MBC Daegu   
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MBC Daejeon   
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MBC Drama  
+http://mytv.dothome.co.kr/ch/catv/26.php
+#EXTINF:-1 group-title="韩国",MBC Gangwon   
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MBC Gwangju    
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MBC Gyeongnam   
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MBC Jeju   
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MBC Jeonju 
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MBC Mokpo   
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MBC Net  
+http://mytv.dothome.co.kr/ch/catv/28.php
+#EXTINF:-1 group-title="韩国",MBC TV 
+http://www.hwado.net/webtv/catv/503_CFEA7803.php
+#EXTINF:-1 group-title="韩国",MBC Yeosu   
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 group-title="韩国",MTN 
+http://183.110.27.87/mtnlive/720/playlist.m3u8
+#EXTINF:-1 group-title="韩国",National Assembly TV 
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
+#EXTINF:-1 group-title="韩国",NBS Korea Agricultural Broadcasting 
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 group-title="韩国",NHTV 
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 group-title="韩国",NS Home Shopping 
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+#EXTINF:-1 group-title="韩国",NS Shop Plus 
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+#EXTINF:-1 group-title="韩国",OBS Gyeongin TV   
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",OCN 
+http://202.60.106.14:8080/207/playlist.m3u8
+#EXTINF:-1 group-title="韩国",OCN 
+http://202.60.106.14:21585/207/playlist.m3u8
+#EXTINF:-1 group-title="韩国",OUN 
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 group-title="韩国",RTV 
+https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8
+#EXTINF:-1 group-title="韩国",RUTC TV 
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",SBS 
+http://www.hwado.net/webtv/catv/502_76142D8F.php
+#EXTINF:-1 group-title="韩国",SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 group-title="韩国",SBS
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",SBS
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 group-title="韩国",SBS
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",SBS
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="韩国",SBS
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 group-title="韩国",SBS
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+#EXTINF:-1 group-title="韩国",SBS
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+#EXTINF:-1 group-title="韩国",SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="韩国",SBS
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Shinsegae Shopping TV 
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Shopping NT 
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 group-title="韩国",STB 
+https://606d65214d80f.streamlock.net/live-stb/_definst_/113988c056b574662480f93ea08de94888b475fb32f740d2449552e043298002/playlist.m3u8
+#EXTINF:-1 group-title="韩国",TBS 
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv",TV Chosun 
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 group-title="韩国" http-referrer="http://broadcast.tvchosun.com/onair/on2.cstv",TV Chosun 2 
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 group-title="韩国",tvN Asia  
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:-1 group-title="韩国",tvN Movies  
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:-1 group-title="韩国",W Shopping 
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 group-title="韩国",WBC TV 
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1 group-title="韩国",WBS TV 
+http://157.245.196.186/live/livestream.m3u8
+#EXTINF:-1 group-title="韩国",YTN 
+http://202.60.106.14:8080/214/playlist.m3u8
+#EXTINF:-1 group-title="韩国",YTN 
+http://202.60.106.14:21585/214/playlist.m3u8
+
 
 #EXTINF:-1 group-title="电视剧集",人气港剧天地1
 http://47.237.74.77:35455/douyu/4290711
