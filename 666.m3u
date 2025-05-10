@@ -361,6 +361,7 @@ https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
 http://mytv.dothome.co.kr/ch/catv/284.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
+http://1.214.67.38/vod/50301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
 http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
