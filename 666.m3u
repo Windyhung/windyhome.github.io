@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml
 #EXTINF:-1 group-title="朝鲜",한국낚시
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
 #EXTINF:-1 group-title="朝鲜",한국낚시
@@ -857,10 +857,9 @@ http://47.237.74.77:35455/yy/1382745103
 #EXTINF:-1 group-title="电视剧集",寒山潜龙
 https://www.goodiptv.club/yy/1382745103
 
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV1",CCTV-1高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkAFVn1RP2d2uoo%2Foo97iAsu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="CCTV" tvg-name="CCTV2",CCTV-2高清
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="https://logo.url/cctv2.png" group-title="CCTV",CCTV-2高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjLjmqq5VFTNlTRTIYZuPFEu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV3",CCTV-3高清
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgPYh7UYWZPIIdnB%2FiAqXWou0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
