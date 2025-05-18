@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/kr.xml"
 
 #EXTINF:-1 group-title="朝鲜",한국낚시
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
@@ -110,7 +111,7 @@ http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 group-title="朝鲜",延边卫视2
 https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1
+#EXTINF:-1 tvg-id="KBS1.kr" group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1
 http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1
 http://mytv.dothome.co.kr/ch/public/1.php
