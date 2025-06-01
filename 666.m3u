@@ -729,8 +729,10 @@ https://www.goodiptv.club/douyu/4105989
 http://zzy789.xyz/douyu1.php?id=4105989
 #EXTINF:-1 group-title="电视剧集",爱情公寓
 http://epg.112114.xyz/douyu/4105989
-#EXTINF:-1 group-title="电视剧集",B站港剧2
+#EXTINF:-1 group-title="电视剧集",B站港剧1
 http://47.237.74.77:35455/bilibili/26742372
+#EXTINF:-1 group-title="电视剧集",B站港剧2
+http://47.237.74.77:35455/bilibili/1721769534
 #EXTINF:-1 group-title="电视剧集",贺岁片
 http://47.237.74.77:35455/huya/11601955
 #EXTINF:-1 group-title="电视剧集",贺岁片
