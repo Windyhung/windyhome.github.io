@@ -1,132 +1,132 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/kr.xml"
 
-#EXTINF:-1 group-title="朝鲜",한국낚시
+#EXTINF:-1 group-title="德万频道",한국낚시
 http://1.214.67.38/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="朝鲜",한국낚시
+#EXTINF:-1 group-title="德万频道",한국낚시
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
-#EXTINF:-1 group-title="朝鲜",한국낚시
+#EXTINF:-1 group-title="德万频道",한국낚시
 http://www.hwado.net/webtv/public/1.php
-#EXTINF:-1 group-title="朝鲜",FTV (고화질)
+#EXTINF:-1 group-title="德万频道",FTV (고화질)
 http://1.214.67.38/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="朝鲜",游钓中国
+#EXTINF:-1 group-title="德万频道",游钓中国
 http://47.237.74.77:35455/douyu/791411
-#EXTINF:-1 group-title="朝鲜",游钓中国
+#EXTINF:-1 group-title="德万频道",游钓中国
 https://www.goodiptv.club/douyu/791411
-#EXTINF:-1 group-title="朝鲜",游钓中国
+#EXTINF:-1 group-title="德万频道",游钓中国
 http://zzy789.xyz/douyu1.php?id=791411
-#EXTINF:-1 group-title="朝鲜",游钓中国
+#EXTINF:-1 group-title="德万频道",游钓中国
 http://epg.112114.xyz/douyu/791411
-#EXTINF:-1 group-title="朝鲜",老曹钓鱼
+#EXTINF:-1 group-title="德万频道",老曹钓鱼
 http://47.237.74.77:35455/douyu/9957389
-#EXTINF:-1 group-title="朝鲜",老曹钓鱼
+#EXTINF:-1 group-title="德万频道",老曹钓鱼
 https://www.goodiptv.club/douyu/9957389
-#EXTINF:-1 group-title="朝鲜",老曹钓鱼
+#EXTINF:-1 group-title="德万频道",老曹钓鱼
 http://zzy789.xyz/douyu1.php?id=9957389
-#EXTINF:-1 group-title="朝鲜",老曹钓鱼
+#EXTINF:-1 group-title="德万频道",老曹钓鱼
 http://epg.112114.xyz/douyu/9957389
-#EXTINF:-1 group-title="朝鲜",【亮剑】的直播间
+#EXTINF:-1 group-title="德万频道",【亮剑】的直播间
 http://47.237.74.77:35455/huya/30080238
-#EXTINF:-1 group-title="朝鲜",【亮剑】的直播间
+#EXTINF:-1 group-title="德万频道",【亮剑】的直播间
 https://www.goodiptv.club/huya/30080238
-#EXTINF:-1 group-title="朝鲜",【神 剧】的直播间
+#EXTINF:-1 group-title="德万频道",【神 剧】的直播间
 http://47.237.74.77:35455/douyu/3439096
-#EXTINF:-1 group-title="朝鲜",【神 剧】的直播间
+#EXTINF:-1 group-title="德万频道",【神 剧】的直播间
 https://www.goodiptv.club/douyu/3439096
-#EXTINF:-1 group-title="朝鲜",【神 剧】的直播间
+#EXTINF:-1 group-title="德万频道",【神 剧】的直播间
 http://zzy789.xyz/douyu1.php?id=3439096
-#EXTINF:-1 group-title="朝鲜",【神 剧】
+#EXTINF:-1 group-title="德万频道",【神 剧】
 http://47.237.74.77:35455/douyu/5875025
-#EXTINF:-1 group-title="朝鲜",【神 剧】
+#EXTINF:-1 group-title="德万频道",【神 剧】
 https://www.goodiptv.club/douyu/5875025
-#EXTINF:-1 group-title="朝鲜",【神 剧】
+#EXTINF:-1 group-title="德万频道",【神 剧】
 http://zzy789.xyz/douyu1.php?id=5875025
-#EXTINF:-1 group-title="朝鲜",亮剑
+#EXTINF:-1 group-title="德万频道",亮剑
 http://47.237.74.77:35455/huya/30080238
-#EXTINF:-1 group-title="朝鲜",亮剑
+#EXTINF:-1 group-title="德万频道",亮剑
 http://47.237.74.77:35455/yy/1356043643
-#EXTINF:-1 group-title="朝鲜",亮剑
+#EXTINF:-1 group-title="德万频道",亮剑
 https://www.goodiptv.club/yy/1356043643
-#EXTINF:-1 group-title="朝鲜",赵本山小品
+#EXTINF:-1 group-title="德万频道",赵本山小品
 http://zzy789.xyz/douyu1.php?id=9817716
-#EXTINF:-1 group-title="朝鲜",赵本山小品
+#EXTINF:-1 group-title="德万频道",赵本山小品
 https://www.goodiptv.club/huya/9817716
-#EXTINF:-1 group-title="朝鲜",赵本山小品
+#EXTINF:-1 group-title="德万频道",赵本山小品
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716remFkNAEr_2000.m3u8?txSecret=23ca357602ebaa991b758fc97a29b298&txTime=664587fe&token=h5-douyu-0-9817716-218ea7f8318ebd25588b59b27ca953bc&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=390506965
-#EXTINF:-1 group-title="朝鲜",赵本山小品(高清)
+#EXTINF:-1 group-title="德万频道",赵本山小品(高清)
 https://www.goodiptv.club/huya/9406415
-#EXTINF:-1 group-title="朝鲜",赵本山小品B站
+#EXTINF:-1 group-title="德万频道",赵本山小品B站
 https://www.goodiptv.club/bilibili/24754244
-#EXTINF:-1 group-title="朝鲜",赵本山爆笑小品
+#EXTINF:-1 group-title="德万频道",赵本山爆笑小品
 https://www.goodiptv.club/yy/1354936217
-#EXTINF:-1 group-title="朝鲜",巩汉林爆笑小品
+#EXTINF:-1 group-title="德万频道",巩汉林爆笑小品
 https://lunbo.freetv.top/yy/1354889035
-#EXTINF:-1 group-title="朝鲜",陈佩斯
+#EXTINF:-1 group-title="德万频道",陈佩斯
 https://www.goodiptv.club/huya/20985776
-#EXTINF:-1 group-title="朝鲜",经典相声小品
+#EXTINF:-1 group-title="德万频道",经典相声小品
 
 https://www.goodiptv.club/huya/29982631
-#EXTINF:-1 group-title="朝鲜",春晚小品
+#EXTINF:-1 group-title="德万频道",春晚小品
 https://www.goodiptv.club/huya/11602068
-#EXTINF:-1 group-title="朝鲜",开心小品
+#EXTINF:-1 group-title="德万频道",开心小品
 https://www.goodiptv.club/yy/1355617041
-#EXTINF:-1 group-title="朝鲜",爆笑小品大合集
+#EXTINF:-1 group-title="德万频道",爆笑小品大合集
 https://www.goodiptv.club/yy/1382736821
-#EXTINF:-1 group-title="朝鲜",经典小品
+#EXTINF:-1 group-title="德万频道",经典小品
 https://www.goodiptv.club/huya/29560227
-#EXTINF:-1 group-title="朝鲜",宋小宝小品
+#EXTINF:-1 group-title="德万频道",宋小宝小品
 https://www.goodiptv.club/huya/30080192
-#EXTINF:-1 group-title="朝鲜",宋小宝小品
+#EXTINF:-1 group-title="德万频道",宋小宝小品
 https://www.goodiptv.club/douyu/9817729
-#EXTINF:-1 group-title="朝鲜",宋小宝小品
+#EXTINF:-1 group-title="德万频道",宋小宝小品
 http://zzy789.xyz/douyu1.php?id=9817729
-#EXTINF:-1 group-title="朝鲜",相声小品
+#EXTINF:-1 group-title="德万频道",相声小品
 http://epg.112114.xyz/douyu/9067836
-#EXTINF:-1 group-title="朝鲜",相声小品
+#EXTINF:-1 group-title="德万频道",相声小品
 http://zzy789.xyz/douyu1.php?id=9067836
-#EXTINF:-6 group-title="朝鲜",快乐垂钓
+#EXTINF:-6 group-title="德万频道",快乐垂钓
 http://47.237.74.77:35455/itv/5000000011000031206.m3u8?cdn=bestzb
-#EXTINF:-6 group-title="朝鲜",快乐垂钓
+#EXTINF:-6 group-title="德万频道",快乐垂钓
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
-#EXTINF:-7 group-title="朝鲜",快乐垂钓
+#EXTINF:-7 group-title="德万频道",快乐垂钓
 http://tvbox6.icu/tv/mgtv.php?id=218
-#EXTINF:-8 group-title="朝鲜",快乐垂钓
+#EXTINF:-8 group-title="德万频道",快乐垂钓
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0882&tk=f6cc1e0a0e1a
-#EXTINF:-19 group-title="朝鲜",快乐垂钓官网
+#EXTINF:-19 group-title="德万频道",快乐垂钓官网
 http://180.213.174.225:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-19 group-title="朝鲜",快乐垂钓
+#EXTINF:-19 group-title="德万频道",快乐垂钓
 http://wouu.net:9977/udp/239.93.1.151:5140
-#EXTINF:-20 group-title="朝鲜",快乐垂钓
+#EXTINF:-20 group-title="德万频道",快乐垂钓
 http://nas.hssvm.com:8888/udp/225.1.2.18:5002
-#EXTINF:-21 group-title="朝鲜",快乐垂钓
+#EXTINF:-21 group-title="德万频道",快乐垂钓
 rtp://239.3.1.164:8001
-#EXTINF:-21 group-title="朝鲜",韩国钓鱼
+#EXTINF:-21 group-title="德万频道",韩国钓鱼
 https://lunbo.freetv.top/douyu/10616765
-#EXTINF:-21 group-title="朝鲜",韩国钓鱼
+#EXTINF:-21 group-title="德万频道",韩国钓鱼
 http://epg.112114.xyz/douyu/10616765
-#EXTINF:-21 group-title="朝鲜",韩国钓鱼
+#EXTINF:-21 group-title="德万频道",韩国钓鱼
 http://zzy789.xyz/douyu1.php?id=10616765
-#EXTINF:-21 group-title="朝鲜",书岳钓鱼
+#EXTINF:-21 group-title="德万频道",书岳钓鱼
 https://lunbo.freetv.top/douyu/10100206
-#EXTINF:-21 group-title="朝鲜",书岳钓鱼
+#EXTINF:-21 group-title="德万频道",书岳钓鱼
 http://epg.112114.xyz/douyu/10100206
-#EXTINF:-21 group-title="朝鲜",书岳钓鱼
+#EXTINF:-21 group-title="德万频道",书岳钓鱼
 http://zzy789.xyz/douyu1.php?id=10100206
-#EXTINF:-1 group-title="朝鲜",四海钓鱼
+#EXTINF:-1 group-title="德万频道",四海钓鱼
 http://baidu.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8
-#EXTINF:-1 group-title="朝鲜",四海钓鱼
+#EXTINF:-1 group-title="德万频道",四海钓鱼
 http://202.99.135.54:8888/rtp/239.253.93.243:6421
-#EXTINF:-1 group-title="朝鲜",朝鲜TV
+#EXTINF:-1 group-title="德万频道",德万频道TV
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 group-title="朝鲜",朝鲜TV
+#EXTINF:-1 group-title="德万频道",德万频道TV
 https://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1 group-title="朝鲜",延边卫视
+#EXTINF:-1 group-title="德万频道",延边卫视
 http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-#EXTINF:-1 group-title="朝鲜",延边卫视1
+#EXTINF:-1 group-title="德万频道",延边卫视1
 http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
-#EXTINF:-1 group-title="朝鲜",延边卫视2
+#EXTINF:-1 group-title="德万频道",延边卫视2
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 group-title="朝鲜",延边卫视2
+#EXTINF:-1 group-title="德万频道",延边卫视2
 https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
 
 
