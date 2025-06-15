@@ -1273,6 +1273,8 @@ http://202.60.106.14:21585/214/playlist.m3u8
 http://47.237.74.77:35455/douyin/964922706943
 #EXTINF:-1 group-title="电视剧集",江苏新闻-抖音
 http://47.237.74.77:35455/douyin/444514536757
+#EXTINF:-1 group-title="电视剧集",江苏新闻-抖音
+https://hls-live.bdstatic.com/live/stream_bduid_2897262092_10355107497-LV1080.flv?kabr_spts=-1800&logid=3608415316&ls_from=&ls_scene=baidu_liveshow
 #EXTINF:-1 group-title="电视剧集",人气港剧天地1
 http://47.237.74.77:35455/douyu/4290711
 #EXTINF:-1 group-title="电视剧集",人气港剧天地1
