@@ -152,17 +152,17 @@ http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC (고화질)
 http://1.214.67.38/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边1台.png",YBTV-1朝鲜语
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/延边1台.png",YBTV-1朝鲜语
 https://srs.iyb983.cn/video/ybtv1/index.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://i20.hunchun123.cn/fg_tu/img/video.jpg",珲春新闻综合
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://i20.hunchun123.cn/fg_tu/img/video.jpg",珲春新闻综合
 http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
-#EXTINF:-1 group-title="🐉한국방송🦆",汪清综合
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",汪清综合
 http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
-#EXTINF:-1 group-title="🐉한국방송🦆",图们综合
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",图们综合
 http://stream7.jlntv.cn/tmgb/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png",JTBC2(고화질)
 http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
