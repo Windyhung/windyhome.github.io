@@ -1389,6 +1389,14 @@ https://www.goodiptv.club/douyu/6906628
 http://zzy789.xyz/douyu1.php?id=6906628
 #EXTINF:-1 group-title="电视剧集",小毅港剧
 http://epg.112114.xyz/douyu/6906628
+#EXTINF:-1 group-title="电视剧集",【萌小鬼】剧
+http://47.237.74.77:35455/douyu/3928
+#EXTINF:-1 group-title="电视剧集",【萌小鬼】剧
+https://www.goodiptv.club/douyu/3928
+#EXTINF:-1 group-title="电视剧集",【萌小鬼】剧
+http://zzy789.xyz/douyu1.php?id=3928
+#EXTINF:-1 group-title="电视剧集",【萌小鬼】剧
+http://epg.112114.xyz/douyu/3928
 #EXTINF:-1 group-title="电视剧集",动作片武打喜剧
 http://47.237.74.77:35455/douyu/30671959
 #EXTINF:-1 group-title="电视剧集",动作片武打喜剧
@@ -11747,4 +11755,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
