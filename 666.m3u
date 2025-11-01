@@ -102,10 +102,9 @@ http://202.99.135.54:8888/rtp/239.253.93.243:6421
 #EXTINF:-1 group-title="德万频道",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="德万频道",朝鲜语综合频道
-https://srs.iyb983.cn/video/CYS/index.m3u8
+https://srs.iyb983.cn/video/ybtv1/index.m3u8
 #EXTINF:-1 group-title="德万频道",汉语综合频道
-https://srs.iyb983.cn/video/CYS/index.m3u8
-
+https://srs.iyb983.cn/video/ybtv2/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
 http://47.237.74.77:7777/kbs.php?id=1
@@ -1826,7 +1825,7 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTM3U
 
 
-#EXTINF:-1 group-title="🐉한국방송🦆", 한국방송 위챗문의: kvtv399
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
 http://47.237.74.77:7777/kbs.php?id=1
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
 http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
@@ -11732,6 +11731,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
