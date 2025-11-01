@@ -25,10 +25,6 @@ https://www.goodiptv.club/douyu/9957389
 http://zzy789.xyz/douyu1.php?id=9957389
 #EXTINF:-1 group-title="德万频道",老曹钓鱼
 http://epg.112114.xyz/douyu/9957389
-#EXTINF:-1 group-title="德万频道",【亮剑】的直播间
-http://47.237.74.77:35455/huya/30080238
-#EXTINF:-1 group-title="德万频道",【亮剑】的直播间
-https://www.goodiptv.club/huya/30080238
 #EXTINF:-1 group-title="德万频道",【神 剧】的直播间
 http://47.237.74.77:35455/douyu/3439096
 #EXTINF:-1 group-title="德万频道",【神 剧】的直播间
@@ -47,33 +43,20 @@ http://47.237.74.77:35455/huya/30080238
 http://47.237.74.77:35455/yy/1356043643
 #EXTINF:-1 group-title="德万频道",亮剑
 https://www.goodiptv.club/yy/1356043643
-#EXTINF:-1 group-title="德万频道",赵本山小品
+#EXTINF:-1 group-title="德万频道",赵本山小品斗鱼
 http://zzy789.xyz/douyu1.php?id=9817716
-#EXTINF:-1 group-title="德万频道",赵本山小品
+#EXTINF:-1 group-title="德万频道",赵本山小品虎牙
 https://www.goodiptv.club/huya/9817716
-#EXTINF:-1 group-title="德万频道",赵本山小品
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716remFkNAEr_2000.m3u8?txSecret=23ca357602ebaa991b758fc97a29b298&txTime=664587fe&token=h5-douyu-0-9817716-218ea7f8318ebd25588b59b27ca953bc&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=390506965
-#EXTINF:-1 group-title="德万频道",赵本山小品(高清)
-https://www.goodiptv.club/huya/9406415
-#EXTINF:-1 group-title="德万频道",赵本山小品B站
-https://www.goodiptv.club/bilibili/24754244
-#EXTINF:-1 group-title="德万频道",赵本山爆笑小品
-https://www.goodiptv.club/yy/1354936217
+#EXTINF:-1 group-title="德万频道",赵本山YY
+http://47.237.74.77:35455/yy/1382683959
 #EXTINF:-1 group-title="德万频道",巩汉林爆笑小品
-https://lunbo.freetv.top/yy/1354889035
+http://47.237.74.77:35455/yy/1354889035
 #EXTINF:-1 group-title="德万频道",陈佩斯
 https://www.goodiptv.club/huya/20985776
 #EXTINF:-1 group-title="德万频道",经典相声小品
-
 https://www.goodiptv.club/huya/29982631
-#EXTINF:-1 group-title="德万频道",春晚小品
-https://www.goodiptv.club/huya/11602068
-#EXTINF:-1 group-title="德万频道",开心小品
-https://www.goodiptv.club/yy/1355617041
 #EXTINF:-1 group-title="德万频道",爆笑小品大合集
-https://www.goodiptv.club/yy/1382736821
-#EXTINF:-1 group-title="德万频道",经典小品
-https://www.goodiptv.club/huya/29560227
+http://47.237.74.77:35455/yy/1382736821
 #EXTINF:-1 group-title="德万频道",宋小宝小品
 https://www.goodiptv.club/huya/30080192
 #EXTINF:-1 group-title="德万频道",宋小宝小品
@@ -116,28 +99,22 @@ http://zzy789.xyz/douyu1.php?id=10100206
 http://baidu.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8
 #EXTINF:-1 group-title="德万频道",四海钓鱼
 http://202.99.135.54:8888/rtp/239.253.93.243:6421
-#EXTINF:-1 group-title="德万频道",德万频道TV
-https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 group-title="德万频道",德万频道TV
-https://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 group-title="德万频道",延边卫视
-http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-#EXTINF:-1 group-title="德万频道",延边卫视1
-http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
-#EXTINF:-1 group-title="德万频道",延边卫视2
-http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 group-title="德万频道",延边卫视2
-https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 group-title="德万频道",朝鲜语综合频道
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 group-title="德万频道",汉语综合频道
+https://srs.iyb983.cn/video/CYS/index.m3u8
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
-http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
+http://47.237.74.77:7777/kbs.php?id=1
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
 http://1.214.67.38/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
-http://1.214.67.38/vod/50301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://koreatv.dothome.co.kr/mbc.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",MBN (고화질)
 http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선 (고화질)
@@ -1850,7 +1827,7 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 
 #EXTINF:-1 group-title="🐉한국방송🦆", 한국방송 위챗문의: kvtv399
-http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8
+http://47.237.74.77:7777/kbs.php?id=1
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
 http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS2.png",KBS 2
@@ -11755,5 +11732,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
