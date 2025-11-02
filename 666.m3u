@@ -1203,14 +1203,6 @@ https://www.goodiptv.club/douyu/3928
 http://zzy789.xyz/douyu1.php?id=3928
 #EXTINF:-1 group-title="电视剧集",【萌小鬼】剧
 http://epg.112114.xyz/douyu/3928
-#EXTINF:-1 group-title="电视剧集",动作片武打喜剧
-http://47.237.74.77:35455/douyu/30671959
-#EXTINF:-1 group-title="电视剧集",动作片武打喜剧
-https://www.goodiptv.club/douyu/30671959
-#EXTINF:-1 group-title="电视剧集",动作片武打喜剧
-http://zzy789.xyz/douyu1.php?id=30671959
-#EXTINF:-1 group-title="电视剧集",动作片武打喜剧
-http://epg.112114.xyz/douyu/30671959
 #EXTINF:-1 group-title="电视剧集",爱情公寓
 http://47.237.74.77:35455/douyu/4105989
 #EXTINF:-1 group-title="电视剧集",爱情公寓
@@ -1219,14 +1211,16 @@ https://www.goodiptv.club/douyu/4105989
 http://zzy789.xyz/douyu1.php?id=4105989
 #EXTINF:-1 group-title="电视剧集",爱情公寓
 http://epg.112114.xyz/douyu/4105989
-#EXTINF:-1 group-title="电视剧集",B站港剧1
-http://47.237.74.77:35455/bilibili/26742372
-#EXTINF:-1 group-title="电视剧集",B站港剧2
-http://47.237.74.77:35455/bilibili/1721769534
 #EXTINF:-1 group-title="电视剧集",贺岁片
-http://47.237.74.77:35455/huya/11601955
+http://47.237.74.77:35455/huya/11601971
 #EXTINF:-1 group-title="电视剧集",贺岁片
-https://www.goodiptv.club/huya/11601955
+https://www.goodiptv.club/huya/11601971
+#EXTINF:-1 group-title="电视剧集",国产贺岁片
+http://47.237.74.77:35455/huya/11601986
+#EXTINF:-1 group-title="电视剧集",国产贺岁片
+https://www.goodiptv.club/huya/11601986
+#EXTINF:-1 group-title="电视剧集",国产贺岁片
+https://8.138.90.107/huya.php?id=11601986
 #EXTINF:-1 group-title="电视剧集",跑男1-4季
 http://47.237.74.77:35455/huya/29465875
 #EXTINF:-1 group-title="电视剧集",跑男1-4季
@@ -1235,12 +1229,22 @@ https://www.goodiptv.club/huya/29465875
 http://47.237.74.77:35455/huya/11602055
 #EXTINF:-1 group-title="电视剧集",香港动作
 https://www.goodiptv.club/huya/11602055
-#EXTINF:-1 group-title="电视剧集",经典影视动作电影喜剧成龙李连杰吴京一起看
+#EXTINF:-1 group-title="电视剧集",赌神 港片 喜剧
+http://47.237.74.77:35455/yy/1355112116
+#EXTINF:-1 group-title="电视剧集",赌神 港片 喜剧
+https://www.goodiptv.club/yy/1355112116
+#EXTINF:-1 group-title="电视剧集",经典影视动作片笑傲江湖倩女幽魂喜剧
 http://47.237.74.77:35455/huya/30400559
-#EXTINF:-1 group-title="电视剧集",经典影视动作电影喜剧成龙李连杰吴京一起看
+#EXTINF:-1 group-title="电视剧集",经典影视动作片笑傲江湖倩女幽魂喜剧
 https://www.goodiptv.club/huya/30400559
-#EXTINF:-1 group-title="电视剧集",经典影视动作电影喜剧成龙李连杰吴京一起看
+#EXTINF:-1 group-title="电视剧集",经典影视动作片笑傲江湖倩女幽魂喜剧
 https://8.138.90.107/huya.php?id=30400559
+#EXTINF:-1 group-title="电视剧集",动作片成&龙李连杰喜剧警察故事A计划
+http://47.237.74.77:35455/huya/30982412
+#EXTINF:-1 group-title="电视剧集",动作片成&龙李连杰喜剧警察故事A计划
+https://www.goodiptv.club/huya/30982412
+#EXTINF:-1 group-title="电视剧集",动作片成&龙李连杰喜剧警察故事A计划
+https://8.138.90.107/huya.php?id=30982412
 #EXTINF:-1 group-title="电视剧集",林正英1
 http://47.237.74.77:35455/huya/30439645
 #EXTINF:-1 group-title="电视剧集",林正英1
@@ -1253,12 +1257,10 @@ https://www.goodiptv.club/douyu/8371123
 http://zzy789.xyz/douyu1.php?id=8371123
 #EXTINF:-1 group-title="电视剧集",林正英2
 http://epg.112114.xyz/douyu/8371123
-#EXTINF:-1 group-title="电视剧集",爱情公寓
+#EXTINF:-1 group-title="电视剧集",爱情公寓huya
 http://47.237.74.77:35455/huya/11336726
-#EXTINF:-1 group-title="电视剧集",爱情公寓
+#EXTINF:-1 group-title="电视剧集",爱情公寓huya
 https://www.goodiptv.club/huya/11336726
-#EXTINF:-1 group-title="电视剧集",爱情公寓(B站)
-http://47.237.74.77:35455/bilibili/31546095
 #EXTINF:-1 group-title="电视剧集",爱情公寓1-5
 http://47.237.74.77:35455/bilibili/1913418511
 #EXTINF:-1 group-title="电视剧集",爱情公寓1-5
@@ -1307,34 +1309,24 @@ https://www.goodiptv.club/huya/30684784
 http://47.237.74.77:35455/huya/11602058
 #EXTINF:-1 group-title="电视剧集",王晶
 https://www.goodiptv.club/huya/11602058
-#EXTINF:-1 group-title="电视剧集",国产 电影 搞笑 喜剧
-http://47.237.74.77:35455/huya/30540279
-#EXTINF:-1 group-title="电视剧集",国产 电影 搞笑 喜剧
-https://www.goodiptv.club/huya/30540279
-#EXTINF:-1 group-title="电视剧集",国产 电影 搞笑 喜剧
-http://47.237.74.77:35455/huya/30540279
 #EXTINF:-1 group-title="电视剧集",港片喜剧动作
 http://47.237.74.77:35455/yy/1355480591
 #EXTINF:-1 group-title="电视剧集",港片喜剧动作
 https://www.goodiptv.club/yy/1355480591
+#EXTINF:-1 group-title="电视剧集",经典港片电影
+http://47.237.74.77:35455/yy/1459801818
+#EXTINF:-1 group-title="电视剧集",经典港片电影
+https://www.goodiptv.club/yy/1459801818
 #EXTINF:-1 group-title="电视剧集",动作大片
 http://47.237.74.77:35455/yy/1354888739
 #EXTINF:-1 group-title="电视剧集",动作大片
 https://www.goodiptv.club/yy/1354888739
-#EXTINF:-1 group-title="电视剧集",经典港剧
-http://47.237.74.77:35455/douyu/9548850
-#EXTINF:-1 group-title="电视剧集",经典港剧
-https://www.goodiptv.club/douyu/9548850
-#EXTINF:-1 group-title="电视剧集",经典港剧
-http://zzy789.xyz/douyu1.php?id=9548850
-#EXTINF:-1 group-title="电视剧集",经典港剧
-http://epg.112114.xyz/douyu/9548850
-#EXTINF:-1 group-title="电视剧集",华语喜剧
-http://zzy789.xyz/douyu1.php?id=276200
-#EXTINF:-1 group-title="电视剧集",柯南1
-http://zzy789.xyz/douyu1.php?id=6484910
-#EXTINF:-1 group-title="电视剧集",柯南1
-https://www.goodiptv.club/douyu/6484910
+#EXTINF:-1 group-title="电视剧集",柯南剧场版
+http://47.237.74.77:35455/huya/30080236
+#EXTINF:-1 group-title="电视剧集",柯南剧场版
+https://www.goodiptv.club/huya/30080236
+#EXTINF:-1 group-title="电视剧集",柯南剧场版
+https://8.138.90.107/huya.php?id=30080236
 #EXTINF:-1 group-title="电视剧集",柯南2
 http://47.237.74.77:35455/huya/30080148
 #EXTINF:-1 group-title="电视剧集",柯南2
@@ -1356,13 +1348,13 @@ http://47.237.74.77:35455/huya/30527430
 #EXTINF:-1 group-title="电视剧集",小新2
 https://www.goodiptv.club/huya/30527430
 #EXTINF:-1 group-title="电视剧集",小新3
-http://47.237.74.77:35455/huya/e
+http://47.237.74.77:35455/huya/29862625
 #EXTINF:-1 group-title="电视剧集",小新3
 https://www.goodiptv.club/huya/29862625
 #EXTINF:-1 group-title="电视剧集",小新4
-http://47.237.74.77:35455/bilibili/30224749
+http://47.237.74.77:35455/bilibili/22962797
 #EXTINF:-1 group-title="电视剧集",小新4
-https://www.goodiptv.club/bilibili/30224749
+https://www.goodiptv.club/bilibili/22962797
 #EXTINF:-1 group-title="电视剧集",宫崎骏
 http://47.237.74.77:35455/douyu/12472697
 #EXTINF:-1 group-title="电视剧集",宫崎骏
@@ -1375,22 +1367,16 @@ http://47.237.74.77:35455/douyu/310926
 https://www.goodiptv.club/douyu/310926
 #EXTINF:-1 group-title="电视剧集",我和僵尸1
 http://epg.112114.xyz/douyu/310926
-#EXTINF:-1 group-title="电视剧集",我和僵尸2
+#EXTINF:-1 group-title="电视剧集",【奇光】点播剧场
 http://47.237.74.77:35455/douyu/11849873
-#EXTINF:-1 group-title="电视剧集",我和僵尸2
+#EXTINF:-1 group-title="电视剧集",【奇光】点播剧场
 https://www.goodiptv.club/douyu/11849873
-#EXTINF:-1 group-title="电视剧集",我和僵尸2
+#EXTINF:-1 group-title="电视剧集",【奇光】点播剧场
 http://zzy789.xyz/douyu1.php?id=11849873
-#EXTINF:-1 group-title="电视剧集",我和僵尸2
+#EXTINF:-1 group-title="电视剧集",【奇光】点播剧场
 http://epg.112114.xyz/douyu/11849873
 #EXTINF:-1 group-title="电视剧集",港台 科幻 动作 喜剧
 http://zzy789.xyz/douyu1.php?id=434971
-#EXTINF:-1 group-title="电视剧集",经典电影
-http://zzy789.xyz/douyu1.php?id=431460
-#EXTINF:-1 group-title="电视剧集",法证先锋2
-http://47.237.74.77:35455/douyu/1354888736
-#EXTINF:-1 group-title="电视剧集",法证先锋2
-https://www.goodiptv.club/yy/1354888736
 #EXTINF:-1 group-title="电视剧集",寒山潜龙
 http://47.237.74.77:35455/yy/1382745103
 #EXTINF:-1 group-title="电视剧集",寒山潜龙
@@ -3084,6 +3070,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",현대홈쇼핑
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+
 
 
 
