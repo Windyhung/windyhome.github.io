@@ -1442,7 +1442,7 @@ http://122.96.52.98:8006/JS_CUCC/G_CETV-2.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEg
 http://122.96.52.98:8006/JS_CUCC/G_CETV-3.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEtKB43Jj647OcHilv0oxiEALxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="教育" tvg-name="CETV4",CETV-4
 http://122.96.52.98:8006/JS_CUCC/G_CETV-4.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiByI341AZF720jOgKAMqfALxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏" tvg-name="江苏卫视",江苏卫视高清
+#EXTINF:-1 tvg-logo="hhttps://epg.51zmt.top:8001/tb1/ws/jiangsu.png" group-title="江苏" tvg-name="江苏卫视",江苏卫视高清
 http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEu%2B73CN7TjP4aPry8BxkIZp4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="卫视" tvg-name="浙江卫视",浙江卫视高清
 http://122.96.52.98:8006/JS_CUCC/ZJWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnEBbogY8aw6bJAEBjs4erib81ufElMrCkVylhMcfT%2BR&p=GITV&area=JS_CUCC
@@ -1556,8 +1556,6 @@ http://122.96.52.98:8006/JS_CUCC/G_YOUMAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo
 http://122.96.52.98:8006/JS_CUCC/G_XUANDONG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElHAdYz2UZrlFf6hIAWx9LlYXTUjY6TEKXN37EwEhDWj&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="教育" tvg-name="山东教育",山东教育
 http://122.96.52.98:8006/JS_CUCC/G_SDETV.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEg6%2Bh5nlom5Ljf0wuj86QlA3CITGH3H4QrNyNYWLeTps&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="其他" tvg-name="好享购物",好享购物
-http://122.96.52.98:8006/JS_CUCC/G_HAOXIANG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoaZ3RBb4IpVIYdSjn1GrfxYXTUjY6TEKXN37EwEhDWj&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="江苏" tvg-name="南京新闻综合",南京新闻综合
 http://122.96.52.98:8006/JS_CUCC/G_NJXW.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoMjcH0bdretQeGgwOgFK%2FnEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="江苏" tvg-name="南京十八·生活",南京十八·生活
@@ -3086,6 +3084,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",현대홈쇼핑
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+
 
 
 
