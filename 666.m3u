@@ -618,189 +618,188 @@ http://112.214.255.201/hls/ch02/playlist.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV1
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
 http://112.27.235.94:8000/hls/1/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV2
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
 http://112.27.235.94:8000/hls/2/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV2
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV2
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
 http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV3
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
 http://112.27.235.94:8000/hls/3/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV3
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
 http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV3
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
 http://61.156.228.12:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV5
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
 http://112.27.235.94:8000/hls/5/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV5
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
 http://113.26.202.52:1299/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV5
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
 http://genglei.8866.org:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV5+
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
 http://112.27.235.94:8000/hls/6/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV5+
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
 http://183.215.134.239:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV6
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
 http://112.27.235.94:8000/hls/7/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV6
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
 http://61.156.228.12:8154/tsfile/live/0006_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV7
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
 http://112.27.235.94:8000/hls/8/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
 http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
 http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
 http://112.27.235.94:8000/hls/9/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV9
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
 http://112.27.235.94:8000/hls/10/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV9
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
 http://60.16.0.216:5757/hls/10/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV10
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
 http://112.27.235.94:8000/hls/11/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV11
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
 http://112.27.235.94:8000/hls/12/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV11
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
 http://60.16.0.216:5757/hls/12/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV12
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
 http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV12
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
 http://112.27.235.94:8000/hls/13/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV12
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
 http://60.16.0.216:5757/hls/13/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV13
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
 http://112.27.235.94:8000/hls/14/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV13
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
 http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV13
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
 https://event.pull.hebtv.com/jishi/cp1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV13
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
 http://60.16.0.216:5757/hls/14/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV14
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
 http://112.27.235.94:8000/hls/15/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV14
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
 http://60.16.0.216:5757/hls/15/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆,CCTV15
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
 http://112.27.235.94:8000/hls/16/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,安多卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,安徽卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",安徽卫视
 http://112.27.235.94:8000/hls/26/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,北京卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",北京卫视
 http://112.27.235.94:8000/hls/27/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,重庆卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",重庆卫视
 http://60.16.0.216:5757/hls/36/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,大湾区卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",大湾区卫视
 http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,东方卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",东方卫视
 http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉지방방송🦆,东南卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",东南卫视
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,广东卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",广东卫视
 http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉지방방송🦆,广东卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",广东卫视
 http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路116』
-#EXTINF:-1 group-title="🐉지방방송🦆,广西卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",广西卫视
 http://60.16.0.216:5757/hls/45/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,贵州卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",贵州卫视
 http://60.16.0.216:5757/hls/37/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,河南卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",河南卫视
 http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,河南卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",河南卫视
 http://1.94.31.214/php/hntv.php?id=hnws
-#EXTINF:-1 group-title="🐉지방방송🦆,黑龙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",黑龙江卫视
 http://112.27.235.94:8000/hls/48/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,湖北卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",湖北卫视
 http://60.16.0.216:5757/hls/33/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,湖南卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",湖南卫视
 http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉지방방송🦆,湖南卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",湖南卫视
 http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉지방방송🦆,湖南卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",湖南卫视
 http://112.27.235.94:8000/hls/31/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,江苏卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",江苏卫视
 http://112.27.235.94:8000/hls/32/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,江苏卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",江苏卫视
 http://60.16.0.216:5757/hls/24/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,江西卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",江西卫视
 http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉지방방송🦆,莲花卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",莲花卫视
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,辽宁卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",辽宁卫视
 http://60.16.0.216:5757/hls/32/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,内蒙古蒙语卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",内蒙古蒙语卫视
 http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,内蒙古卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",内蒙古卫视
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$LR•IPV4『线路27』
-#EXTINF:-1 group-title="🐉지방방송🦆,内蒙古卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",内蒙古卫视
 http://60.16.0.216:5757/hls/41/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,山东卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",山东卫视
 http://112.27.235.94:8000/hls/34/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,山西卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",山西卫视
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,山西卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",山西卫视
 http://60.16.0.216:5757/hls/39/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,陕西卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",陕西卫视
 http://112.27.235.94:8000/hls/43/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,上海卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",上海卫视
 http://112.27.235.94:8000/hls/28/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,上海卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",上海卫视
 http://genglei.8866.org:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉지방방송🦆,深圳卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",深圳卫视
 http://112.27.235.94:8000/hls/33/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,深圳卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",深圳卫视
 http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉지방방송🦆,深圳卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",深圳卫视
 http://113.26.202.52:1299/tsfile/live/0126_1.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,四川卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",四川卫视
 http://112.27.235.94:8000/hls/35/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,四川卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",四川卫视
 http://60.16.0.216:5757/hls/30/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,天津卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",天津卫视
 http://112.27.235.94:8000/hls/42/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,天津卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",天津卫视
 http://60.16.0.216:5757/hls/34/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,西藏卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",西藏卫视
 http://php.jdshipin.com/xztv.php?id=ws
-#EXTINF:-1 group-title="🐉지방방송🦆,西藏卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",西藏卫视
 http://php.jdshipin.com:8880/xztv.php?id=ws
-#EXTINF:-1 group-title="🐉지방방송🦆,新疆卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",新疆卫视
 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-#EXTINF:-1 group-title="🐉지방방송🦆,延边卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",延边卫视
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
-#EXTINF:-1 group-title="🐉지방방송🦆,延边卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",延边卫视
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,云南卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",云南卫视
 http://112.27.235.94:8000/hls/40/index.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路55』
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路56』
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路105』
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路119』
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$LR•IPV4『线路166』
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 http://8.138.7.223/tv/zjws.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4『线路89』
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉지방방송🦆,浙江卫视
+#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
 http://112.27.235.94:8000/hls/29/index.m3u8
-
 
 
 
@@ -2839,6 +2838,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",현대홈쇼핑
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+
 
 
 
