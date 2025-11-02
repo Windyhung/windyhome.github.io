@@ -1632,7 +1632,7 @@ http://122.96.52.98:8006/JS_CUCC/G_HUBEI.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEk4
 http://122.96.52.98:8006/JS_CUCC/G_HEBEI.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsF4b4x%2B7gd3f9B%2B0BA08CCAbs%2ByF7b29hFRLV23f6Vj&p=GITV&area=JS_CUCC
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="央视",CCTV-8电视剧
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjRHl42BlkGJajq1an8WD9s04ctvOE2aPjA%2F%2B%2BXXw1nH&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏" tvg-name="江苏卫视",江苏卫视高清
+#EXTINF:-1 tvg-logo="hhttps://epg.51zmt.top:8001/tb1/ws/jiangsu.png" group-title="江苏" tvg-name="江苏卫视",江苏卫视高清
 http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElCWthYRb1KKeprmYzrIdHpMbaR389oSCXqlFcK2rwtb&p=GITV&area=JS_CUCC
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央视",CCTV-2财经
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgwqdXJuN6bi6tfgWhbeDhs04ctvOE2aPjA%2F%2B%2BXXw1nH&p=GITV&area=JS_CUCC
@@ -3084,6 +3084,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",현대홈쇼핑
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+
 
 
 
