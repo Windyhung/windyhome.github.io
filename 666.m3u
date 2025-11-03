@@ -618,362 +618,338 @@ http://112.214.255.201/hls/ch02/playlist.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-https://tv.iill.top/migu/cctv1
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-https://tv.iill.top/migu/cctv2
+http://27.41.245.32:801/hls/1/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-https://tv.iill.top/migu/cctv3
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-https://tv.iill.top/migu/cctv4
+http://27.41.245.32:801/hls/3/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-https://tv.iill.top/migu/cctv5
+http://27.41.245.32:801/hls/5/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-https://tv.iill.top/migu/cctv5+
+http://222.142.185.127:8888/hls/3/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-https://tv.iill.top/migu/cctv6
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
-https://tv.iill.top/migu/cctv7
+http://27.41.245.32:801/hls/6/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-https://tv.iill.top/migu/cctv8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-https://tv.iill.top/migu/cctv9
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-https://tv.iill.top/migu/cctv10
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-https://tv.iill.top/migu/cctv11
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-https://tv.iill.top/migu/cctv12
+http://27.41.245.32:801/hls/8/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-https://tv.iill.top/migu/cctv13
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-https://tv.iill.top/migu/cctv14
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-https://tv.iill.top/migu/cctv15
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
-https://tv.iill.top/migu/cctv16
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-https://tv.iill.top/migu/cctv17
+http://27.41.245.32:801/hls/13/index.m3u8
+
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://112.27.235.94:8000/hls/1/index.m3u8
+http://60.13.52.236:65500/newlive/live/hls/1/live.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://112.27.235.94:8000/hls/2/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://60.13.52.236:65500/newlive/live/hls/2/live.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://112.27.235.94:8000/hls/3/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://61.156.228.12:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://60.13.52.236:65500/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
+http://60.13.52.236:65500/newlive/live/hls/4/live.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://112.27.235.94:8000/hls/5/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://113.26.202.52:1299/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://genglei.8866.org:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://112.27.235.94:8000/hls/6/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://183.215.134.239:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.188.111.173:9003/hls/6/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://112.27.235.94:8000/hls/7/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://61.156.228.12:8154/tsfile/live/0006_1.m3u8
+http://222.142.185.127:8888/hls/23/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
-http://112.27.235.94:8000/hls/8/index.m3u8
+http://60.13.52.236:65500/newlive/live/hls/7/live.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://112.27.235.94:8000/hls/9/index.m3u8
+http://60.13.52.236:65500/newlive/live/hls/8/live.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://112.27.235.94:8000/hls/10/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://60.16.0.216:5757/hls/10/index.m3u8
+http://60.13.52.236:65500/newlive/live/hls/9/live.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://112.27.235.94:8000/hls/11/index.m3u8
+http://60.13.52.236:65500/newlive/live/hls/10/live.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://112.27.235.94:8000/hls/12/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://60.16.0.216:5757/hls/12/index.m3u8
+http://60.13.52.236:65500/newlive/live/hls/11/live.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://112.27.235.94:8000/hls/13/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://60.16.0.216:5757/hls/13/index.m3u8
+http://60.13.52.236:65500/newlive/live/hls/12/live.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://112.27.235.94:8000/hls/14/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-https://event.pull.hebtv.com/jishi/cp1.m3u8
+http://60.13.52.236:65500/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
+http://60.13.52.236:65500/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
+http://60.13.52.236:65500/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
+http://219.147.245.238:25380/newlive/live/hls/58/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
+http://27.41.245.32:801/hls/16/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
+http://60.13.52.236:65500/newlive/live/hls/41/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",黑龙江卫视
+http://60.13.52.236:65500/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",辽宁卫视
+http://60.13.52.236:65500/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",北京卫视
+http://60.13.52.236:65500/newlive/live/hls/22/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",上海卫视
+http://60.13.52.236:65500/newlive/live/hls/18/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
+http://60.13.52.236:65500/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",广东卫视
+http://60.13.52.236:65500/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",四川卫视
+http://60.13.52.236:65500/newlive/live/hls/36/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
+http://60.13.52.236:65500/newlive/live/hls/43/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",天津卫视
+http://60.13.52.236:65500/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",浙江卫视
+http://60.13.52.236:65500/newlive/live/hls/21/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",湖南卫视
+http://60.13.52.236:65500/newlive/live/hls/19/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",广西卫视
+http://60.13.52.236:65500/newlive/live/hls/42/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",深圳卫视
+http://60.13.52.236:65500/newlive/live/hls/24/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",江苏卫视
+http://60.13.52.236:65500/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",安徽卫视
+http://60.13.52.236:65500/newlive/live/hls/33/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",湖北卫视
+http://60.13.52.236:65500/newlive/live/hls/26/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",重庆卫视
+http://60.13.52.236:65500/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",海南卫视
+http://27.41.245.32:801/hls/36/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",河北卫视
+http://60.13.52.236:65500/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",贵州卫视
+http://60.13.52.236:65500/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",山西卫视
+http://60.13.52.236:65500/newlive/live/hls/47/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",河南卫视
+http://60.13.52.236:65500/newlive/live/hls/39/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",陕西卫视
+http://60.13.52.236:65500/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",江西卫视
+http://60.13.52.236:65500/newlive/live/hls/48/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",东南卫视
+http://60.13.52.236:65500/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",青海卫视
+http://60.13.52.236:65500/newlive/live/hls/44/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",宁夏卫视
+http://60.13.52.236:65500/newlive/live/hls/46/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",新疆卫视
+http://27.41.245.32:801/hls/57/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",西藏卫视
+http://60.13.52.236:65500/newlive/live/hls/45/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",内蒙古卫视
+http://27.41.245.32:801/hls/47/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",甘肃卫视
+http://60.13.52.236:65500/newlive/live/hls/17/live.m3u8
+
+
+
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
+http://60.16.0.216:5757/hls/1/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
+http://60.16.0.216:5757/hls/3/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://60.16.0.216:5757/hls/5/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+http://60.16.0.216:5757/hls/6/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
+http://60.16.0.216:5757/hls/9/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
 http://60.16.0.216:5757/hls/14/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
+http://101.74.28.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
+http://101.74.28.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://101.74.28.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+http://101.74.28.119:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
+http://101.74.28.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
+http://101.74.28.119:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
+https://6663.luyazo.com/livetv/hlcc/8ispgQnNg/8ispgQnNg_live.m3u8?auth_key=1756266807-0-0-8c4ca6bb3d80148bb53c1f4cae92b26d
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+https://6663.luyazo.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1756266921-0-0-c980775f013612d85a4758efb97fabc4
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+https://6663.luyazo.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1756266937-0-0-33bb9c95be9914da6d6c52039673ce89
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
+https://6663.luyazo.com/livetv/hlcc/v7q2gw7HR/v7q2gw7HR_live.m3u8?auth_key=1756266973-0-0-611bc714de46cb8f7cb758d38d953845
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
+https://6663.luyazo.com/livetv/hlcc/VScTgwnHR/VScTgwnHR_live.m3u8?auth_key=1756267014-0-0-51688d07840b5ba34f9375e8ecefb166
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
+http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
+http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
+http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
+http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://101.74.28.84:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
+http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV 7
+http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
+http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
+http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
+http://tpc.x3322.net:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
+http://tpc.x3322.net:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
+http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
+http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://112.27.235.94:8000/hls/15/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://60.16.0.216:5757/hls/15/index.m3u8
+http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://112.27.235.94:8000/hls/16/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",安多卫视
-https://liveout.xntv.tv/a65jur/96iln2.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",安徽卫视
-http://112.27.235.94:8000/hls/26/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",北京卫视
-http://112.27.235.94:8000/hls/27/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",重庆卫视
-http://60.16.0.216:5757/hls/36/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",大湾区卫视
-http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",东方卫视
-http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국지방방송🦆",东南卫视
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",广东卫视
-http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국지방방송🦆",广东卫视
-http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路116』
-#EXTINF:-1 group-title="🐉중국지방방송🦆",广西卫视
-http://60.16.0.216:5757/hls/45/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",贵州卫视
-http://60.16.0.216:5757/hls/37/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",河南卫视
-http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",河南卫视
-http://1.94.31.214/php/hntv.php?id=hnws
-#EXTINF:-1 group-title="🐉중국지방방송🦆",黑龙江卫视
-http://112.27.235.94:8000/hls/48/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",湖北卫视
-http://60.16.0.216:5757/hls/33/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",湖南卫视
-http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국지방방송🦆",湖南卫视
-http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국지방방송🦆",湖南卫视
-http://112.27.235.94:8000/hls/31/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",江苏卫视
-http://112.27.235.94:8000/hls/32/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",江苏卫视
-http://60.16.0.216:5757/hls/24/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",江西卫视
-http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국지방방송🦆",莲花卫视
-http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",辽宁卫视
-http://60.16.0.216:5757/hls/32/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",内蒙古蒙语卫视
-http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",内蒙古卫视
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$LR•IPV4『线路27』
-#EXTINF:-1 group-title="🐉중국지방방송🦆",内蒙古卫视
-http://60.16.0.216:5757/hls/41/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",山东卫视
-http://112.27.235.94:8000/hls/34/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",山西卫视
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",山西卫视
-http://60.16.0.216:5757/hls/39/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",陕西卫视
-http://112.27.235.94:8000/hls/43/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",上海卫视
-http://112.27.235.94:8000/hls/28/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",上海卫视
-http://genglei.8866.org:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국지방방송🦆",深圳卫视
-http://112.27.235.94:8000/hls/33/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",深圳卫视
-http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국지방방송🦆",深圳卫视
-http://113.26.202.52:1299/tsfile/live/0126_1.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",四川卫视
-http://112.27.235.94:8000/hls/35/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",四川卫视
-http://60.16.0.216:5757/hls/30/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",天津卫视
-http://112.27.235.94:8000/hls/42/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",天津卫视
-http://60.16.0.216:5757/hls/34/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",西藏卫视
-http://php.jdshipin.com/xztv.php?id=ws
-#EXTINF:-1 group-title="🐉중국지방방송🦆",西藏卫视
-http://php.jdshipin.com:8880/xztv.php?id=ws
-#EXTINF:-1 group-title="🐉중국지방방송🦆",新疆卫视
-http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-#EXTINF:-1 group-title="🐉중국지방방송🦆",延边卫视
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
-#EXTINF:-1 group-title="🐉중국지방방송🦆",延边卫视
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",云南卫视
-http://112.27.235.94:8000/hls/40/index.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路55』
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路56』
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路105』
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路119』
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$LR•IPV4『线路166』
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-http://8.138.7.223/tv/zjws.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4『线路89』
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국지방방송🦆",浙江卫视
-http://112.27.235.94:8000/hls/29/index.m3u8
+http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
+http://42.225.117.174:11199/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
+http://171.120.248.227:9003/hls/18/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
+http://tpc.x3322.net:9901/tsfile/live/1042_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://111.43.126.240:9003/hls/17/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+http://58.19.252.68:1111/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
 
 
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK G
-http://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK E
-http://vthanh.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg",ntv
-http://vthanh.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",tbs
-Http://vthanh.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg",fuji_tv
-http://vthanh.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg",TV_Asahi
-http://vthanh.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",tv_tokyo
-http://vthanh.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",tokyo_mx
-http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-http://vthanh.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
-http://vthanh.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
-http://vthanh.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2 (test)
-http://luong.utako.moe/mx2test/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
-http://luong.utako.moe/abc/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
-http://luong.utako.moe/tvo/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",kansai
-http://luong.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="yormuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
-http://luong.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
-http://luong.utako.moe/kbs/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
-http://luong.utako.moe/suntv/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9WvIBSpypx2Lr8C2qE5yag==.jpg?type=live&thumbnail=thumbnail_small.jpg",Golf Network HD JP
-http://171.244.62.178/jptv2/get.php?id=9WvIBSpypx2Lr8C2qE5yag==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
-http://luong.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
-http://luong.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
-http://luong.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
-http://luong.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
-http://luong.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
-http://luong.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
-http://luong.utako.moe/wprime/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
-http://luong.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
-http://luong.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
-http://vthanh.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV-test
-http://luong.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1-test
-https://luong.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2-test
-https://luong.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo-test (NSFW)
-http://luong.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",NEWS 24H
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",bs_ntv
-http://luong.utako.moe/bsntva11/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",nhk_bsp4k
-http://luong.utako.moe/bsp4k_testsignal/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1-test
-http://luong.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2-test
-http://luong.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3-test
-http://luong.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4-test
-http://luong.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK G JP
-http://171.244.62.178/jptv2/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK G JP
-http://171.244.62.178/jptv2/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK E JP
-http://171.244.62.178/jptv2/get.php?id=hnsnBqHDt2EXQupW2soBjw==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg",Nippon TV JP  
-http://171.244.62.178/jptv2/get.php?id=4SlJSS46Vw5igmOdvfKMww==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",TBS TV JP
-http://171.244.62.178/jptv2/get.php?id=p1cu_Z3QI6VV01VJmw8vJQ==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg",FUJI TV JP
-http://171.244.62.178/jptv2/get.php?id=uAJJq7DD6hKyPLoaMOBSUA==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg",TV Asahi JP
-http://171.244.62.178/jptv2/get.php?id=aNwnFAidrAjzqK5Wo0KvWw==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",TV TOKYO JP
-http://171.244.62.178/jptv2/get.php?id=2eX5WUIdzetyhgy8L8plEQ==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK BSP JP
-http://171.244.62.178/jptv2/get.php?id=4D-J_Jybe7vuwDFEEopxPA==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg",BS Nippon JP
-http://171.244.62.178/jptv2/get.php?id=OW-ptn455y7PFTNGgwS2mg==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",BS Asahi JP
-http://171.244.62.178/jptv2/get.php?id=BIvrrhxU6N9OlSgVT-HPrQ==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",BS TBS JP
-http://171.244.62.178/jptv2/get.php?id=PsnqEBgAyeiCC2gXhv5ODQ==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/LmVq1wXCa4u6hpFsEFO79w==.jpg?type=live&thumbnail=thumbnail_small.jpg",BS Japan JP
-http://171.244.62.178/jptv2/get.php?id=LmVq1wXCa4u6hpFsEFO79w==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg",BS FUJI JP
-http://171.244.62.178/jptv2/get.php?id=GpcPKY0rAfMZ9_mQkcePpA==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/CXrJaWUllYhR6k5e0_K46w==.jpg?type=live&thumbnail=thumbnail_small.jpg",WOWOW Prime JP
-http://171.244.62.178/jptv2/get.php?id=CXrJaWUllYhR6k5e0_K46w==
-#EXTINF:-1 group-title="🐉일본방송🦮",Animax JP
-http://171.244.62.178/jptv2/get.php?id=iyXsMcSj-uHvpI6JnMMlTg==
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
+http://43.138.196.212/mi0gu.php?id=cctv1
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
+http://43.138.196.212/mi0gu.php?id=cctv2
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
+http://43.138.196.212/mi0gu.php?id=cctv3
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
+http://43.138.196.212/mi0gu.php?id=cctv4
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
+http://43.138.196.212/mi0gu.php?id=cctv6
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
+http://43.138.196.212/mi0gu.php?id=cctv7
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
+http://43.138.196.212/mi0gu.php?id=cctv8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
+http://43.138.196.212/mi0gu.php?id=cctv9
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
+http://43.138.196.212/mi0gu.php?id=cctv10
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
+http://43.138.196.212/111.php?id=cctv11
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
+http://43.138.196.212/mi0gu.php?id=cctv12
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
+http://43.138.196.212/mi0gu.php?id=cctv13
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
+http://43.138.196.212/mi0gu.php?id=cctv14
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
+http://43.138.196.212/mi0gu.php?id=cctv15
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
+http://tpc.x3322.net:9901/tsfile/live/1061_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
+http://43.138.196.212/mi0gu.php?id=cctv17
+
+
+
+
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
+http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
+http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
+http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
+http://61.156.228.12:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
+http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV 7
+http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
+http://222.169.85.8:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
+http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
+http://222.169.85.8:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
+http://222.169.85.8:9901/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
+http://222.169.85.8:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
+http://222.169.85.8:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
+http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
+http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
+https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
+https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV风云足球
+https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",超级体育
+http://111.43.126.240:9003/hls/86/index.m3u8
+
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
+http://tpc.x3322.net:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
+http://tpc.x3322.net:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
+http://tpc.x3322.net:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
+http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV 6
+http://tpc.x3322.net:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV 7
+http://tpc.x3322.net:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
+http://tpc.x3322.net:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
+http://112.80.201.222:9003/hls/12/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
+http://112.80.201.222:9003/hls/13/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
+http://112.80.201.222:9003/hls/14/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
+http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="nhk" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/NHK-Logo.png" group-title="🐉일본방송🦮",NHK World
+https://stream1.freetv.fun/d10b157216483dbbe97818c472af25e7f9ba086e7abe82c0bebf8b715ebc7cdf.m3u8
+#EXTINF:-1 tvg-id="nhk" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/NHK-Logo.png" group-title="🐉일본방송🦮",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="CGNTVJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgn-tv-japan-kr-jp.png",CGNTV Japan
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="QVC.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",NHKG
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",Nippon TV (540p)
 https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",Fuji TV (540p)
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",일본골프
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",テレビ朝日
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",テレビ东京
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",フジテレビ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",日本テレビ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",TBSテレビ (720p Willfon)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK総合
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",テレビ大坂
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="🐉일본방송🦮",ANN JapaNews24
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",HBC Hokkaido News 24
@@ -994,16 +970,10 @@ https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",TV Shizuoka (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",Asahi Shimbun Digital
 https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",CGNTV Japan (1080p)
-https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK World Premium (720p) [Not 24/7]
-https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",Pokémon Kids TV Japanese (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",Weathernews (1080p)
@@ -1028,96 +998,70 @@ https://ythls.armelin.one/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
 https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",TV-U Yamagata (Youtube) (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCTWatTAOnFVB0vwIetZCTHw.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK大坂 総合
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK教育 (720p Willfon)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",WOWOWライブ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",WOWOWシネマ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",WOWOWプライム
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",キッズステーション
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",スカイA
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",スターチャンネル1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",チャンネル银河
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",ホームドラマチャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",ムービープラス
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",钓りビジョン
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",歌谣ポップスチャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",日テレNEWS24
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",日テレジータス
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",时代剧専门チャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",囲碁?将棋チャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",时代剧専门
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",女性チャンネルLaLaTV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",チャンネル银河
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",Action
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",BSテレ东
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",GAORA
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",LaLaTV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",テレビ朝日
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK BS1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK教育
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",スーパー!ドラマTV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",スターチャンネル2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",スターチャンネル3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",ファミリー剧场
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",Music Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS323&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",BSアニマックス
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",Music ON TV!
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",QVC
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK世界
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Shop Channel
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Gaki no Tsukai (English Subs) (720p)
+
+
+
+
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
+https://ca01.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
+https://ca01.utako.moe/nihoneiga/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
+https://ca01.utako.moe/skya/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
+https://ca01.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
+https://ca01.utako.moe/mtv/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
+https://ca01.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
+https://ca01.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
+https://ca01.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
+https://ca01.utako.moe/ntvgplus/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
+https://ca01.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
+https://ca01.utako.moe/mondo/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
+https://ca01.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
+https://ca01.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
+https://ca01.utako.moe/ex_ch1/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
+https://ca01.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
+https://ca01.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
+https://ca01.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
+https://ca01.utako.moe/fuji_next/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
+https://ca01.utako.moe/neco/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
+https://ca01.utako.moe/dlife/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
+https://ca01.utako.moe/toei/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai
+https://ca01.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele
+https://ca01.utako.moe/entermei_tele/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
+https://ca01.utako.moe/sport_live_plus/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
+https://ca01.utako.moe/homedrama/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
+https://ca01.utako.moe/gingach/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
+https://ca01.utako.moe/tabi/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
+https://ca01.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
+https://ca01.utako.moe/v_paradise/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",Gaki no Tsukai
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",TBS
-https://tbs4.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",ディスカバリー
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🐉일본방송🦮",ヒストリーチャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🐉일본방송🦮",JSPORTS 1
-https://server.priterytivi.com/js1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSPORTS 2
-https://server.priterytivi.com/js2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSPORTS 3
-https://server.priterytivi.com/js3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSPORTS 4
-https://server.priterytivi.com/js4/tracks-v1a1/mono.m3u8
 
 
 
@@ -1550,7 +1494,7 @@ http://122.96.52.98:8006/JS_CUCC/G_XUANDONG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbt
 http://122.96.52.98:8006/JS_CUCC/G_SDETV.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEg6%2Bh5nlom5Ljf0wuj86QlA3CITGH3H4QrNyNYWLeTps&p=GITV&area=JS_CUCC
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://epg.v1.mk/logo/南京新闻.png" group-title="江苏",南京新闻
 http://122.96.52.98:8006/JS_CUCC/G_NJXW.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoMjcH0bdretQeGgwOgFK%2FnEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://epg.v1.mk/logo/南京十八生活.png" group-title="江苏",南京生活
+#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://epg.v1.mk/logo/南京生活.png" group-title="江苏",南京生活
 http://122.96.52.98:8006/JS_CUCC/G_NJSB.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqlM1l%2BeoFKI8wnHz%2FUgbsbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="江苏" tvg-name="南京教科" tvg-logo="https://epg.v1.mk/logo/南京教科.png",南京教科
 http://122.96.52.98:8006/JS_CUCC/G_NJJK.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiGqx7T0gmg2iKRDXWqfssbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
@@ -1990,17 +1934,15 @@ http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000032@JSBC
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="江苏",财富天下
 http://112.86.202.37:8112/JSBC_iptv/C10000099@JSBC
-#EXTINF:-1 tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/好享购物.png" group-title="江苏",好享购物
-http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://epg.v1.mk/logo/南京新闻.png" group-title="江苏",南京新闻
 http://112.86.202.37:8112/JSBC_iptv/C10000128@JSBC
-#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://d.kstore.dev/download/6946/icon/南京十八生活.png" group-title="江苏",南京生活
+#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://epg.v1.mk/logo/南京生活.png" group-title="江苏",南京生活
 http://112.86.202.37:8112/JSBC_iptv/C10000129@JSBC
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://epg.v1.mk/logo/南京少儿.png" group-title="江苏",南京少儿
 http://112.86.202.37:8112/JSBC_iptv/C10000156@JSBC
 #EXTINF:-1 tvg-name="南京影视" tvg-logo="https://epg.v1.mk/logo/南京影视.png" group-title="江苏",南京影视
 http://112.86.202.37:8112/JSBC_iptv/C10000153@JSBC
-#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://d.kstore.dev/download/6946/icon/南京教科.png" group-title="江苏",南京教科
+#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://epg.v1.mk/logo/南京教科.png" group-title="江苏",南京教科
 http://112.86.202.37:8112/JSBC_iptv/C10000122@JSBC
 #EXTINF:-1 group-title="江苏" tvg-name="南京文旅记录" tvg-logo="https://epg.v1.mk/logo/南京文旅记录.png",南京文旅记录
 http://112.86.202.37:8112/JSBC_iptv/C10000154@JSBC
@@ -3076,6 +3018,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",현대홈쇼핑
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+
 
 
 
