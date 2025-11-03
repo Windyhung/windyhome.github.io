@@ -1532,7 +1532,7 @@ http://122.96.52.98:8006/JS_CUCC/G_JSCS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErf9
 http://122.96.52.98:8006/JS_CUCC/G_JSGG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnaaipXQfT6mvlq1T4j6uU3El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="江苏" tvg-name="江苏影视",江苏影视
 http://122.96.52.98:8006/JS_CUCC/G_JSYS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsbz4xIpXVtCFIMno2yuqVbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏" tvg-name="江苏休闲体育",江苏休闲体育
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="江苏",江苏体育休闲
 http://122.96.52.98:8006/JS_CUCC/G_JSTY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoAQpkXItVA4eG3wN%2BSQc93El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="江苏" tvg-name="江苏综艺",江苏综艺
 http://122.96.52.98:8006/JS_CUCC/G_JSZY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEncrSBfKQn4Q5ZoKMcKsr4jEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
@@ -1548,21 +1548,21 @@ http://122.96.52.98:8006/JS_CUCC/G_YOUMAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo
 http://122.96.52.98:8006/JS_CUCC/G_XUANDONG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElHAdYz2UZrlFf6hIAWx9LlYXTUjY6TEKXN37EwEhDWj&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="教育" tvg-name="山东教育",山东教育
 http://122.96.52.98:8006/JS_CUCC/G_SDETV.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEg6%2Bh5nlom5Ljf0wuj86QlA3CITGH3H4QrNyNYWLeTps&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏" tvg-name="南京新闻综合",南京新闻综合
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://epg.v1.mk/logo/南京新闻.png" group-title="江苏",南京新闻
 http://122.96.52.98:8006/JS_CUCC/G_NJXW.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoMjcH0bdretQeGgwOgFK%2FnEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏" tvg-name="南京十八·生活",南京十八·生活
+#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://epg.v1.mk/logo/南京十八生活.png" group-title="江苏",南京生活
 http://122.96.52.98:8006/JS_CUCC/G_NJSB.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqlM1l%2BeoFKI8wnHz%2FUgbsbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏" tvg-name="南京教科",南京教科
+#EXTINF:-1 group-title="江苏" tvg-name="南京教科" tvg-logo="https://epg.v1.mk/logo/南京教科.png",南京教科
 http://122.96.52.98:8006/JS_CUCC/G_NJJK.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiGqx7T0gmg2iKRDXWqfssbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="卫视" tvg-name="浙江卫视",浙江卫视高清
 http://122.96.52.98:8006/JS_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoNd2dktho8dQKmJgOb8jA8sKmCmtZP3IrDnQs4NTrMF&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="卫视" tvg-name="湖南卫视",湖南卫视高清
 http://122.96.52.98:8006/JS_CUCC/G_HUNAN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEpvKElGYWiZ5gdKgfgfTV%2F9YXTUjY6TEKXN37EwEhDWj&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏" tvg-name="南京文旅记录",南京文旅记录
+#EXTINF:-1 group-title="江苏" tvg-name="南京文旅记录" tvg-logo="https://epg.v1.mk/logo/南京文旅记录.png",南京文旅记录
 http://122.96.52.98:8006/JS_CUCC/G_NJYL.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjFqfQRndUrBSsUh%2BqRc5aPEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="卫视" tvg-name="东方卫视",东方卫视高清
 http://122.96.52.98:8006/JS_CUCC/G_DONGFANG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEquOD%2FF5rVZ9ggpQ6fpB0WEsKmCmtZP3IrDnQs4NTrMF&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏" tvg-name="南京影视",南京影视
+#EXTINF:-1 tvg-name="南京影视" tvg-logo="https://epg.v1.mk/logo/南京影视.png" group-title="江苏",南京影视
 http://122.96.52.98:8006/JS_CUCC/G_NJYS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEryOYppBCaGCbwBoicbAMYfEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="卫视" tvg-name="深圳卫视",深圳卫视超清-8M
 http://122.96.52.98:8006/JS_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvZLFHKtISZ64EC8%2FM6myNwsKmCmtZP3IrDnQs4NTrMF&p=GITV&area=JS_CUCC
@@ -1570,7 +1570,7 @@ http://122.96.52.98:8006/JS_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6n
 http://122.96.52.98:8006/JS_CUCC/G_HEILONGJIANG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjIJG6TGS8K9nHRTabedgo5tE8skulJrPPJnh%2Bpgatn9&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="卫视" tvg-name="广东卫视",广东卫视超清-8M
 http://122.96.52.98:8006/JS_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEi%2B9f1ioQT23DodmBN6xoZyFyF4UiSgYamv7VsmPOuOJ&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="少儿" tvg-name="南京少儿",南京少儿
+#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://epg.v1.mk/logo/南京少儿.png" group-title="江苏",南京少儿
 http://122.96.52.98:8006/JS_CUCC/G_NJSE.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErV9ZZLHPB2iNJDmdQ9xIhzEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-1.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEr0O33cTzHngKVeC%2BpkEGGAYUAl3uT6KyhhyA3GPqkYe&p=GITV&area=JS_CUCC
@@ -1604,7 +1604,7 @@ http://122.96.52.98:8006/JS_CUCC/G_CCTV-14.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtE
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-15.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnO2QfmJhn9rzsvMT8s8LNALl1kgfSDeytwXvPwn2c6i&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="卫视" tvg-name="北京卫视",北京卫视高清
 http://122.96.52.98:8006/JS_CUCC/BTV-1.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoRaGwcNlfzCoTWCXJuHL4%2FhCsZiWNVb%2B9ug3Ov%2B5E3U&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="江苏" tvg-name="江苏卫视",江苏卫视
+#EXTINF:-1 tvg-logo="https://epg.51zmt.top:8001/tb1/ws/jiangsu.png" group-title="江苏" tvg-name="江苏卫视",江苏卫视
 http://122.96.52.98:8006/JS_CUCC/JSWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsx9gdDHY22LeCx6dQRJvo%2BAbs%2ByF7b29hFRLV23f6Vj&p=GITV&area=JS_CUCC
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="央视",CCTV-16奥林匹克频道
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEprOy1thJK05Ys6n3CjtSJlMbaR389oSCXqlFcK2rwtb&p=GITV&area=JS_CUCC
@@ -1907,7 +1907,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000404@JSBC
 http://122.97.211.133:8112/JSBC_iptv/C10000193@JSBC
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000015@JSBC
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000043@JSBC
@@ -1980,7 +1980,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="江苏",江苏综艺
 http://112.86.202.37:8112/JSBC_iptv/C10000225@JSBC
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="江苏",江苏体育
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="江苏",江苏体育休闲
 http://112.86.202.37:8112/JSBC_iptv/C10000226@JSBC
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="江苏",江苏影视
 http://112.86.202.37:8112/JSBC_iptv/C10000227@JSBC
@@ -1992,17 +1992,17 @@ http://112.86.202.37:8112/JSBC_iptv/C10000032@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000099@JSBC
 #EXTINF:-1 tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/好享购物.png" group-title="江苏",好享购物
 http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
-#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://d.kstore.dev/download/6946/icon/南京新闻综合.png" group-title="江苏",南京新闻
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://epg.v1.mk/logo/南京新闻.png" group-title="江苏",南京新闻
 http://112.86.202.37:8112/JSBC_iptv/C10000128@JSBC
 #EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://d.kstore.dev/download/6946/icon/南京十八生活.png" group-title="江苏",南京生活
 http://112.86.202.37:8112/JSBC_iptv/C10000129@JSBC
-#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://d.kstore.dev/download/6946/icon/南京少儿.png" group-title="江苏",南京少儿
+#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://epg.v1.mk/logo/南京少儿.png" group-title="江苏",南京少儿
 http://112.86.202.37:8112/JSBC_iptv/C10000156@JSBC
-#EXTINF:-1 tvg-name="南京影视" tvg-logo="https://d.kstore.dev/download/6946/icon/南京影视.png" group-title="江苏",南京影视
+#EXTINF:-1 tvg-name="南京影视" tvg-logo="https://epg.v1.mk/logo/南京影视.png" group-title="江苏",南京影视
 http://112.86.202.37:8112/JSBC_iptv/C10000153@JSBC
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="https://d.kstore.dev/download/6946/icon/南京教科.png" group-title="江苏",南京教科
 http://112.86.202.37:8112/JSBC_iptv/C10000122@JSBC
-#EXTINF:-1 tvg-name="南京文旅记录" tvg-logo="https://d.kstore.dev/download/6946/icon/南京文旅记录.png" group-title="江苏",南京文旅
+#EXTINF:-1 group-title="江苏" tvg-name="南京文旅记录" tvg-logo="https://epg.v1.mk/logo/南京文旅记录.png",南京文旅记录
 http://112.86.202.37:8112/JSBC_iptv/C10000154@JSBC
 
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="精彩频道",优漫卡通
@@ -3076,6 +3076,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",현대홈쇼핑
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+
 
 
 
