@@ -111,18 +111,24 @@ https://srs.iyb983.cn/video/ybtv1/index.m3u8
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
+http://wdtv.hwaksi.uk/kbs.php?id=1
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
 http://47.237.74.77:7777/kbs.php?id=1
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
 http://koreatv.dothome.co.kr/kbs1.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
+http://wdtv.hwaksi.uk/kbs.php?id=2
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
+http://47.237.74.77:7777/kbs.php?id=2
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
 http://1.214.67.38/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
 http://koreatv.dothome.co.kr/mbc.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",MBN (고화질)
 http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선 (고화질)
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://https://upload.wikimedia.org/wikipedia/commons/1/1e/TV_Chosun_Logo_%28English%29.svg",티비조선 (고화질)
 http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스(고화질)
 http://1.214.67.38/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
@@ -1148,11 +1154,11 @@ http://47.237.74.77:35455/bilibili/26715753
 #EXTINF:-1 group-title="电视剧集",甄嬛传
 https://www.goodiptv.club/bilibili/26715753
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1/20251116185627.jpg" tvg-id="1" tvg-name="CCTV1" group-title="电视剧集",刑侦剧
-http://47.237.74.77:35455/huya/20969130
+https://8.138.90.107/huya.php?id=20969130
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1/20251116185627.jpg" tvg-id="1" tvg-name="CCTV1" group-title="电视剧集",刑侦剧
 https://www.goodiptv.club/huya/20969130
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1/20251116185627.jpg" tvg-id="1" tvg-name="CCTV1" group-title="电视剧集",刑侦剧
-https://8.138.90.107/huya.php?id=20969130
+http://47.237.74.77:35455/huya/20969130
 #EXTINF:-1 group-title="电视剧集",【萌小鬼】剧
 http://47.237.74.77:35455/douyu/3928
 #EXTINF:-1 group-title="电视剧集",【萌小鬼】剧
@@ -3030,6 +3036,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",현대홈쇼핑
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+
 
 
 
