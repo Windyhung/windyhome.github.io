@@ -48,21 +48,39 @@ http://47.237.74.77:35455/yy/1356043643
 #EXTINF:-1 group-title="德万频道",亮剑
 https://www.goodiptv.club/yy/1356043643
 #EXTINF:-1 group-title="德万频道",赵本山小品斗鱼
+http://47.237.74.77:35455/douyu/9817716
+#EXTINF:-1 group-title="德万频道",赵本山小品斗鱼
+http://wdtv.hwaksi.uk/douyu.php?id=9817716
+#EXTINF:-1 group-title="德万频道",赵本山小品斗鱼
+https://www.goodiptv.club/douyu/9817716
+#EXTINF:-1 group-title="德万频道",赵本山小品斗鱼
 http://zzy789.xyz/douyu1.php?id=9817716
-#EXTINF:-1 group-title="德万频道",赵本山小品虎牙
-https://www.goodiptv.club/huya/9817716
-#EXTINF:-1 group-title="德万频道",赵本山YY
-http://47.237.74.77:35455/yy/1382683959
-#EXTINF:-1 group-title="德万频道",巩汉林爆笑小品
-http://47.237.74.77:35455/yy/1354889035
+#EXTINF:-1 group-title="德万频道",赵本山小品斗鱼
+http://47.237.74.77:7777/douyu.php?id=9817716
+#EXTINF:-1 group-title="德万频道",重温春晚爆笑经典小品
+http://47.237.74.77:35455/huya/11602068
+#EXTINF:-1 group-title="德万频道",重温春晚爆笑经典小品
+http://wdtv.hwaksi.uk/huya.php?id=11602068
+#EXTINF:-1 group-title="德万频道",重温春晚爆笑经典小品
+https://www.goodiptv.club/huya/11602068
+#EXTINF:-1 group-title="德万频道",重温春晚爆笑经典小品
+https://8.138.90.107/huya.php?id=11602068
+#EXTINF:-1 group-title="德万频道",重温春晚爆笑经典小品
+http://47.237.74.77:7777/huya.php?id=11602068
 #EXTINF:-1 group-title="德万频道",陈佩斯
 https://www.goodiptv.club/huya/20985776
 #EXTINF:-1 group-title="德万频道",陈佩斯
 http://47.237.74.77:7777/huya.php?id=20985776
 #EXTINF:-1 group-title="德万频道",经典相声小品
+http://47.237.74.77:35455/huya/29982631
+#EXTINF:-1 group-title="德万频道",经典相声小品
+http://wdtv.hwaksi.uk/huya.php?id=29982631
+#EXTINF:-1 group-title="德万频道",经典相声小品
 https://www.goodiptv.club/huya/29982631
-#EXTINF:-1 group-title="德万频道",爆笑小品大合集
-http://47.237.74.77:35455/yy/1382736821
+#EXTINF:-1 group-title="德万频道",经典相声小品
+https://8.138.90.107/huya.php?id=29982631
+#EXTINF:-1 group-title="德万频道",经典相声小品
+http://47.237.74.77:7777/huya.php?id=29982631
 #EXTINF:-1 group-title="德万频道",宋小宝小品
 https://www.goodiptv.club/huya/30080192
 #EXTINF:-1 group-title="德万频道",宋小宝小品
@@ -1004,17 +1022,13 @@ http://47.237.74.77:35455/douyu/6906628
 https://www.goodiptv.club/douyu/6906628
 #EXTINF:-1 group-title="电视剧集",小毅港剧
 http://zzy789.xyz/douyu1.php?id=6906628
-#EXTINF:-1 group-title="电视剧集",小毅港剧
+#EXTINF:-1 group-title="电视剧集",小毅港剧刑侦剧
 http://47.237.74.77:7777/douyu.php?id=6906628
-#EXTINF:-1 group-title="电视剧集",甄嬛传
-http://47.237.74.77:35455/bilibili/26715753
-#EXTINF:-1 group-title="电视剧集",甄嬛传
-https://www.goodiptv.club/bilibili/26715753
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1/20251116185627.jpg" tvg-id="1" tvg-name="CCTV1" group-title="电视剧集",刑侦剧
+#EXTINF:-1 group-title="电视剧集",刑侦剧
 https://8.138.90.107/huya.php?id=20969130
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1/20251116185627.jpg" tvg-id="1" tvg-name="CCTV1" group-title="电视剧集",刑侦剧
+#EXTINF:-1 group-title="电视剧集",刑侦剧
 https://www.goodiptv.club/huya/20969130
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1/20251116185627.jpg" tvg-id="1" tvg-name="CCTV1" group-title="电视剧集",刑侦剧
+#EXTINF:-1 group-title="电视剧集",刑侦剧
 http://47.237.74.77:35455/huya/20969130
 #EXTINF:-1 group-title="电视剧集",【萌小鬼】剧
 http://47.237.74.77:35455/douyu/3928
@@ -1032,9 +1046,9 @@ https://www.goodiptv.club/douyu/4105989
 http://zzy789.xyz/douyu1.php?id=4105989
 #EXTINF:-1 group-title="电视剧集",爱情公寓
 http://47.237.74.77:7777/douyu.php?id=4105989
-#EXTINF:-1 group-title="电视剧集",叶问
+#EXTINF:-1 group-title="电视剧集",港片 经典
 http://47.237.74.77:35455/huya/30682679
-#EXTINF:-1 group-title="电视剧集",叶问
+#EXTINF:-1 group-title="电视剧集",港片 经典
 https://www.goodiptv.club/huya/30682679
 #EXTINF:-1 group-title="电视剧集",贺岁片
 http://47.237.74.77:35455/huya/11601971
@@ -1215,17 +1229,17 @@ http://47.237.74.77:35455/bilibili/22962797
 #EXTINF:-1 group-title="电视剧集",小新B站
 https://www.goodiptv.club/bilibili/22962797
 #EXTINF:-1 group-title="电视剧集",宫崎骏
-http://47.237.74.77:35455/douyu/12472697
+http://47.237.74.77:35455/huya/21059614
 #EXTINF:-1 group-title="电视剧集",宫崎骏
-http://zzy789.xyz/douyu1.php?id=12472697
+http://wdtv.hwaksi.uk/huya.php?id=21059614
+#EXTINF:-1 group-title="电视剧集",宫崎骏
+https://www.goodiptv.club/huya/21059614
+#EXTINF:-1 group-title="电视剧集",宫崎骏
+https://8.138.90.107/huya.php?id=21059614
+#EXTINF:-1 group-title="电视剧集",宫崎骏
+http://47.237.74.77:7777/huya.php?id=21059614
 #EXTINF:-1 group-title="电视剧集",我和僵尸1
 http://zzy789.xyz/douyu1.php?id=310926
-#EXTINF:-1 group-title="电视剧集",我和僵尸1
-http://47.237.74.77:35455/douyu/310926
-#EXTINF:-1 group-title="电视剧集",我和僵尸1
-https://www.goodiptv.club/douyu/310926
-#EXTINF:-1 group-title="电视剧集",我和僵尸1
-http://47.237.74.77:7777/douyu.php?id=310926
 #EXTINF:-1 group-title="电视剧集",【奇光】点播剧场
 http://47.237.74.77:35455/douyu/11849873
 #EXTINF:-1 group-title="电视剧集",【奇光】点播剧场
@@ -2927,6 +2941,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",현대홈쇼핑
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+
 
 
 
