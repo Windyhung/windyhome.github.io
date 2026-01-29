@@ -149,7 +149,7 @@ https://srs.iyb983.cn/video/ybtv1/index.m3u8
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
-http://wdtv.hwaksi.uk/kbs.php?id=1
+http://4005.wooham.xyz:1997/kbs.php?id=1
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
 http://47.237.74.77:7777/kbs.php?id=1
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
@@ -3011,4 +3011,5 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",현대홈쇼핑
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+
 
