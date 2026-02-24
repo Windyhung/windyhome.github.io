@@ -342,7 +342,7 @@ https://srs.iyb983.cn/video/ybtv1/index.m3u8
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
-http://47.237.74.77:7777/kbs.php?id=1
+http://krtv.hwaksi.uk/kbs.php?id=1
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
 http://koreatv.dothome.co.kr/kbs1.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
@@ -352,7 +352,9 @@ http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://wdtv.hwaksi.uk/kbs.php?id=2
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
-http://47.237.74.77:7777/kbs.php?id=2
+http://koreatv.dothome.co.kr/kbs2.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
+http://180.69.60.42:8856/udp/239.192.67.99:49220
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
 http://1.214.67.38/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
@@ -2287,7 +2289,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000420@JSBC
 
 
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
-http://47.237.74.77:7777/kbs.php?id=1
+http://krtv.hwaksi.uk/kbs.php?id=1
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
 http://4005.wooham.xyz:1997/kbs.php?id=1
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
@@ -2649,9 +2651,9 @@ https://tv.iill.top/kbs/11&p=0
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS2
 https://tv.iill.top/kbs/12&p=0
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
-http://47.237.74.77:7777/kbs.php?id=1
+http://krtv.hwaksi.uk/kbs.php?id=1
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
-http://47.237.74.77:7777/kbs.php?id=2
+http://krtv.hwaksi.uk/kbs.php?id=2
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://kenpark76.github.io/logo/SBS.png" group-title="🐉한국방송🦆",SBS
@@ -3334,6 +3336,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",현대홈쇼핑
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+
 
 
 
