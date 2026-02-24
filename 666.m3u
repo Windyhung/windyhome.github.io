@@ -644,16 +644,6 @@ http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 http://23.237.228.134/live8/yunnan.m3u8
 
 
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="其他频道",金鹰纪实
-rtsp://171.35.135.102:554/PLTV/88888888/224/3221227039/10000100000000060000000000570897_0.smil
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="其他频道",金鹰卡通
-rtsp://171.35.128.100:554/PLTV/88888888/224/3221227312/10000100000000060000000001945876_0.smil
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="其他频道",纪实人文
-rtsp://171.35.128.109:554/PLTV/88888888/224/3221227040/10000100000000060000000000570944_0.smil
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="其他频道",快乐垂钓
-rtsp://171.35.135.103:554/PLTV/88888888/224/3221227048/10000100000000060000000000571123_0.smil
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他频道",CETV1
-rtsp://171.35.128.101:554/PLTV/88888888/224/3221227044/10000100000000060000000000571119_0.smil
 
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.svg/1280px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.svg.png", NHK 総合
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd01
@@ -3344,6 +3334,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",현대홈쇼핑
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+
 
 
 
