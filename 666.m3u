@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/kr.xml"
 
 #EXTINF:-1 group-title="德万频道",test
-http://4005.wooham.xyz:35455/douyu/791411?stream=flv
+http://4005.wooham.xyz:8009/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkAFVn1RP2d2uoo%2Foo97iAsu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="德万频道",한국낚시
 http://1.214.67.38/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="德万频道",한국낚시
