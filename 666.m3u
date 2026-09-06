@@ -1657,10 +1657,20 @@ https://www.goodiptv.club/douyu/4549169
 http://op.wooham.xyz:35455/douyu/30590779
 #EXTINF:-1 group-title="电视剧集",橙記港剧huya
 https://www.goodiptv.club/huya/30590779
-
+#EXTINF:-1 group-title="电视剧集",橙記港剧huya
+http://cfss.cc/cdn/huya/30590779.flv
 #EXTINF:-1 group-title="电视剧集",法证先锋B站
 http://4005.wooham.xyz:35455/bilibili/1878513946
-
+#EXTINF:-1 group-title="电视剧集",法证先锋B站
+http://4005.wooham.xyz:35455/bilibili/1878513946
+#EXTINF:-1 group-title="电视剧集",古灵精探
+http://cfss.cc/cdn/huya/31281026.flv
+#EXTINF:-1 group-title="电视剧集",古灵精探
+https://www.goodiptv.club/huya/31281026
+#EXTINF:-1 group-title="电视剧集",古灵精探
+http://op.wooham.xyz:35455/huya/31281026
+#EXTINF:-1 group-title="电视剧集",古灵精探
+http://4005.wooham.xyz:35455/huya/31281026
 #EXTINF:-1 group-title="电视剧集",冰冰港剧
 http://4005.wooham.xyz:35455/douyu/74374
 #EXTINF:-1 group-title="电视剧集",冰冰港剧
@@ -1709,6 +1719,16 @@ http://4005.wooham.xyz:35455/huya/30682679
 http://op.wooham.xyz:35455/huya/30682679
 #EXTINF:-1 group-title="电视剧集",港片 经典
 https://www.goodiptv.club/huya/30682679
+#EXTINF:-1 group-title="电视剧集",乌龙院
+http://cfss.cc/cdn/huya/30860538.flv
+#EXTINF:-1 group-title="电视剧集",乌龙院
+https://www.goodiptv.club/huya/30860538
+#EXTINF:-1 group-title="电视剧集",乌龙院
+http://4005.wooham.xyz:35455/huya/30860538
+#EXTINF:-1 group-title="电视剧集",乌龙院
+http://op.wooham.xyz:35455/huya/30860538
+#EXTINF:-1 group-title="电视剧集",贺岁片
+http://cfss.cc/cdn/huya/11601971.flv
 #EXTINF:-1 group-title="电视剧集",贺岁片
 http://4005.wooham.xyz:35455/huya/11601971
 #EXTINF:-1 group-title="电视剧集",贺岁片
@@ -1748,54 +1768,63 @@ http://op.wooham.xyz:35455/huya/23829543
 #EXTINF:-1 group-title="电视剧集",叶问
 https://www.goodiptv.club/huya/23829543
 #EXTINF:-1 group-title="电视剧集",林正英1
+http://cfss.cc/cdn/huya/30439645.flv
+#EXTINF:-1 group-title="电视剧集",林正英1
 http://4005.wooham.xyz:35455/huya/30439645
 #EXTINF:-1 group-title="电视剧集",林正英1
 https://www.goodiptv.club/huya/30439645
 #EXTINF:-1 group-title="电视剧集",林正英1
 http://op.wooham.xyz:35455/huya/30439645
-
+#EXTINF:-1 group-title="电视剧集",林正英2
+http://cfss.cc/cdn/huya/11342421.flv
 #EXTINF:-1 group-title="电视剧集",林正英2
 http://4005.wooham.xyz:35455/huya/11342421
 #EXTINF:-1 group-title="电视剧集",林正英2
 https://www.goodiptv.club/huya/11342421
 #EXTINF:-1 group-title="电视剧集",林正英2
 http://op.wooham.xyz:35455/huya/11342421
-
+#EXTINF:-1 group-title="电视剧集",林正英3
+http://cfss.cc/cdn/huya/21059571.flv
 #EXTINF:-1 group-title="电视剧集",林正英3
 http://4005.wooham.xyz:35455/huya/21059571
 #EXTINF:-1 group-title="电视剧集",林正英3
 https://www.goodiptv.club/huya/21059571
 #EXTINF:-1 group-title="电视剧集",林正英3
 http://op.wooham.xyz:35455/huya/21059571
-
+#EXTINF:-1 group-title="电视剧集",林正英4
+http://cfss.cc/cdn/huya/31215877.flv
 #EXTINF:-1 group-title="电视剧集",林正英4
 http://4005.wooham.xyz:35455/huya/31215877
 #EXTINF:-1 group-title="电视剧集",林正英4
 https://www.goodiptv.club/huya/31215877
 #EXTINF:-1 group-title="电视剧集",林正英4
 http://op.wooham.xyz:35455/huya/31215877
-
+#EXTINF:-1 group-title="电视剧集",林正英5
+http://cfss.cc/cdn/huya/31371700.flv
 #EXTINF:-1 group-title="电视剧集",林正英5
 http://4005.wooham.xyz:35455/huya/31371700
 #EXTINF:-1 group-title="电视剧集",林正英5
 https://www.goodiptv.club/huya/31371700
 #EXTINF:-1 group-title="电视剧集",林正英5
 http://op.wooham.xyz:35455/huya/31371700
-
+#EXTINF:-1 group-title="电视剧集",林正英6
+http://cfss.cc/cdn/huya/30631704.flv
 #EXTINF:-1 group-title="电视剧集",林正英6
 http://4005.wooham.xyz:35455/huya/30631704
 #EXTINF:-1 group-title="电视剧集",林正英6
 https://www.goodiptv.club/huya/30631704
 #EXTINF:-1 group-title="电视剧集",林正英6
 http://op.wooham.xyz:35455/huya/30631704
-
+#EXTINF:-1 group-title="电视剧集",僵尸道长
+http://cfss.cc/cdn/huya/23865148.flv
 #EXTINF:-1 group-title="电视剧集",僵尸道长
 http://4005.wooham.xyz:35455/huya/23865148
 #EXTINF:-1 group-title="电视剧集",僵尸道长
 https://www.goodiptv.club/huya/23865148
 #EXTINF:-1 group-title="电视剧集",僵尸道长
 http://op.wooham.xyz:35455/huya/23865148
-
+#EXTINF:-1 group-title="电视剧集",经典僵尸
+http://cfss.cc/cdn/huya/31217965.flv
 #EXTINF:-1 group-title="电视剧集",经典僵尸
 http://4005.wooham.xyz:35455/huya/31217965
 #EXTINF:-1 group-title="电视剧集",经典僵尸
@@ -1806,12 +1835,6 @@ http://op.wooham.xyz:35455/huya/31217965
 http://4005.wooham.xyz:35455/huya/11336726
 #EXTINF:-1 group-title="电视剧集",爱情公寓huya
 https://www.goodiptv.club/huya/11336726
-#EXTINF:-1 group-title="电视剧集",唐朝诡事录
-http://4005.wooham.xyz:35455/huya/26355763
-#EXTINF:-1 group-title="电视剧集",唐朝诡事录
-https://www.goodiptv.club/huya/26355763
-
-
 #EXTINF:-1 group-title="电视剧集",虎牙港剧
 http://cfss.cc/cdn/huya/29465851.flv
 #EXTINF:-1 group-title="电视剧集",虎牙港剧
@@ -1820,7 +1843,8 @@ http://4005.wooham.xyz:35455/huya/29465851
 https://www.goodiptv.club/huya/29465851
 #EXTINF:-1 group-title="电视剧集",虎牙港剧
 http://op.wooham.xyz:35455/douyu/29465851
-
+#EXTINF:-1 group-title="电视剧集",成龙1
+http://cfss.cc/cdn/huya/11342386.flv
 #EXTINF:-1 group-title="电视剧集",成龙1
 https://www.goodiptv.club/huya/11342386
 #EXTINF:-1 group-title="电视剧集",成龙1
@@ -1828,85 +1852,231 @@ http://op.wooham.xyz:35455/huya/11342386
 #EXTINF:-1 group-title="电视剧集",成龙1
 http://4005.wooham.xyz:35455/huya/11342386
 #EXTINF:-1 group-title="电视剧集",成龙2
-http://op.wooham.xyz:35455/huya/30403502
+http://cfss.cc/cdn/huya/26355852.flv
 #EXTINF:-1 group-title="电视剧集",成龙2
-https://www.goodiptv.club/huya/30403502
+http://op.wooham.xyz:35455/huya/26355852
 #EXTINF:-1 group-title="电视剧集",成龙2
-https://8.138.90.107/huya.php?id=30403502
-#EXTINF:-1 group-title="电视剧集",甄子丹
-http://4005.wooham.xyz:35455/huya/11352935
-#EXTINF:-1 group-title="电视剧集",甄子丹
-https://www.goodiptv.club/huya/11352935
-#EXTINF:-1 group-title="电视剧集",周星星
-http://4005.wooham.xyz:35455/huya/30611864
-#EXTINF:-1 group-title="电视剧集",周星星
+https://www.goodiptv.club/huya/26355852
+#EXTINF:-1 group-title="电视剧集",成龙2
+http://op.wooham.xyz:35455/huya/26355852
+#EXTINF:-1 group-title="电视剧集",成龙3
+http://cfss.cc/cdn/huya/30631744.flv
+#EXTINF:-1 group-title="电视剧集",成龙3
+https://www.goodiptv.club/huya/30631744
+#EXTINF:-1 group-title="电视剧集",成龙3
+http://op.wooham.xyz:35455/huya/30631744
+#EXTINF:-1 group-title="电视剧集",成龙3
+http://4005.wooham.xyz:35455/huya/30631744
+#EXTINF:-1 group-title="电视剧集",成龙4
+http://cfss.cc/cdn/huya/31298889.flv
+#EXTINF:-1 group-title="电视剧集",成龙4
+https://www.goodiptv.club/huya/31298889
+#EXTINF:-1 group-title="电视剧集",成龙4
+http://op.wooham.xyz:35455/huya/31298889
+#EXTINF:-1 group-title="电视剧集",成龙4
+http://4005.wooham.xyz:35455/huya/31298889
+#EXTINF:-1 group-title="电视剧集",成龙5
+http://cfss.cc/cdn/huya/23829474.flv
+#EXTINF:-1 group-title="电视剧集",成龙5
+https://www.goodiptv.club/huya/23829474
+#EXTINF:-1 group-title="电视剧集",成龙5
+http://op.wooham.xyz:35455/huya/23829474
+#EXTINF:-1 group-title="电视剧集",成龙5
+http://4005.wooham.xyz:35455/huya/23829474
+#EXTINF:-1 group-title="电视剧集",成龙6
+http://cfss.cc/cdn/huya/31109333.flv
+#EXTINF:-1 group-title="电视剧集",成龙6
+https://www.goodiptv.club/huya/31109333
+#EXTINF:-1 group-title="电视剧集",成龙6
+http://op.wooham.xyz:35455/huya/31109333
+#EXTINF:-1 group-title="电视剧集",成龙6
+http://4005.wooham.xyz:35455/huya/31109333
+
+#EXTINF:-1 group-title="电视剧集",倩女幽魂
+http://cfss.cc/cdn/huya/30569095.flv
+#EXTINF:-1 group-title="电视剧集",倩女幽魂
+https://www.goodiptv.club/huya/30569095
+#EXTINF:-1 group-title="电视剧集",倩女幽魂
+http://4005.wooham.xyz:35455/huya/30569095
+#EXTINF:-1 group-title="电视剧集",倩女幽魂
+http://op.wooham.xyz:35455/huya/30569095
+
+#EXTINF:-1 group-title="电视剧集",周星星1
+http://cfss.cc/cdn/huya/30611864.flv
+#EXTINF:-1 group-title="电视剧集",周星星1
 https://www.goodiptv.club/huya/30611864
-#EXTINF:-1 group-title="电视剧集",周星星经典
-http://4005.wooham.xyz:35455/huya/11342412
-#EXTINF:-1 group-title="电视剧集",周星星经典
+#EXTINF:-1 group-title="电视剧集",周星星1
+http://op.wooham.xyz:35455/huya/30611864
+#EXTINF:-1 group-title="电视剧集",周星星1
+http://4005.wooham.xyz:35455/huya/30611864
+#EXTINF:-1 group-title="电视剧集",周星星2
+http://cfss.cc/cdn/huya/11342412.flv
+#EXTINF:-1 group-title="电视剧集",周星星2
 https://www.goodiptv.club/huya/11342412
-#EXTINF:-1 group-title="电视剧集",星爷
-http://4005.wooham.xyz:35455/huya/30572288
-#EXTINF:-1 group-title="电视剧集",星爷
-https://www.goodiptv.club/huya/30572288
+#EXTINF:-1 group-title="电视剧集",周星星2
+http://op.wooham.xyz:35455/huya/11342412
+#EXTINF:-1 group-title="电视剧集",周星星2
+http://4005.wooham.xyz:35455/huya/11342412
+#EXTINF:-1 group-title="电视剧集",周星星3
+http://cfss.cc/cdn/huya/30631741.flv
+#EXTINF:-1 group-title="电视剧集",周星星3
+https://www.goodiptv.club/huya/30631741
+#EXTINF:-1 group-title="电视剧集",周星星3
+http://op.wooham.xyz:35455/huya/30631741
+#EXTINF:-1 group-title="电视剧集",周星星3
+http://4005.wooham.xyz:35455/huya/30631741
+#EXTINF:-1 group-title="电视剧集",周星星4
+http://cfss.cc/cdn/huya/11342412.flv
+#EXTINF:-1 group-title="电视剧集",周星星4
+https://www.goodiptv.club/huya/11342412
+#EXTINF:-1 group-title="电视剧集",周星星4
+http://op.wooham.xyz:35455/huya/11342412
+#EXTINF:-1 group-title="电视剧集",周星星4
+http://4005.wooham.xyz:35455/huya/11342412
+
+#EXTINF:-1 group-title="电视剧集",香港电影
+http://cfss.cc/cdn/huya/31308716.flv
+#EXTINF:-1 group-title="电视剧集",香港电影
+https://www.goodiptv.club/huya/31308716
+#EXTINF:-1 group-title="电视剧集",香港电影
+http://4005.wooham.xyz:35455/huya/31308716
+#EXTINF:-1 group-title="电视剧集",香港电影
+http://op.wooham.xyz:35455/huya/31308716
+
 #EXTINF:-1 group-title="电视剧集",李连杰
-http://4005.wooham.xyz:35455/huya/30684784
+http://cfss.cc/cdn/huya/23903106.flv
 #EXTINF:-1 group-title="电视剧集",李连杰
-https://www.goodiptv.club/huya/30684784
+https://www.goodiptv.club/huya/23903106
+#EXTINF:-1 group-title="电视剧集",李连杰
+http://op.wooham.xyz:35455/huya/23903106
+#EXTINF:-1 group-title="电视剧集",李连杰
+http://4005.wooham.xyz:35455/huya/23903106
+
+#EXTINF:-1 group-title="电视剧集",李连杰2
+http://cfss.cc/cdn/huya/11342390.flv
+#EXTINF:-1 group-title="电视剧集",李连杰2
+https://www.goodiptv.club/huya/11342390
+#EXTINF:-1 group-title="电视剧集",李连杰2
+http://op.wooham.xyz:35455/huya/11342390
+#EXTINF:-1 group-title="电视剧集",李连杰2
+http://4005.wooham.xyz:35455/huya/11342390
+
+#EXTINF:-1 group-title="电视剧集",李连杰3
+http://cfss.cc/cdn/huya/30631746.flv
+#EXTINF:-1 group-title="电视剧集",李连杰3
+https://www.goodiptv.club/huya/30631746
+#EXTINF:-1 group-title="电视剧集",李连杰3
+http://op.wooham.xyz:35455/huya/30631746
+#EXTINF:-1 group-title="电视剧集",李连杰3
+http://4005.wooham.xyz:35455/huya/30631746
+
+#EXTINF:-1 group-title="电视剧集",李连杰4
+http://cfss.cc/cdn/huya/11602055.flv
+#EXTINF:-1 group-title="电视剧集",李连杰4
+https://www.goodiptv.club/huya/11602055
+#EXTINF:-1 group-title="电视剧集",李连杰4
+http://op.wooham.xyz:35455/huya/11602055
+#EXTINF:-1 group-title="电视剧集",李连杰4
+http://4005.wooham.xyz:35455/huya/11602055
+
+#EXTINF:-1 group-title="电视剧集",李连杰5
+http://cfss.cc/cdn/huya/29982611.flv
+#EXTINF:-1 group-title="电视剧集",李连杰5
+https://www.goodiptv.club/huya/29982611
+#EXTINF:-1 group-title="电视剧集",李连杰5
+http://op.wooham.xyz:35455/huya/29982611
+#EXTINF:-1 group-title="电视剧集",李连杰5
+http://4005.wooham.xyz:35455/huya/29982611
+
+#EXTINF:-1 group-title="电视剧集",李连杰黄飞鸿
+http://cfss.cc/cdn/huya/30650512.flv
+#EXTINF:-1 group-title="电视剧集",李连杰黄飞鸿
+https://www.goodiptv.club/huya/30650512
+#EXTINF:-1 group-title="电视剧集",李连杰黄飞鸿
+http://op.wooham.xyz:35455/huya/30650512
+#EXTINF:-1 group-title="电视剧集",李连杰黄飞鸿
+http://4005.wooham.xyz:35455/huya/30650512
+
+#EXTINF:-1 group-title="电视剧集",香港经典动作电影
+http://cfss.cc/cdn/huya/30080197.flv
+#EXTINF:-1 group-title="电视剧集",香港经典动作电影
+https://www.goodiptv.club/huya/30080197
+#EXTINF:-1 group-title="电视剧集",香港经典动作电影
+http://op.wooham.xyz:35455/huya/30080197
+#EXTINF:-1 group-title="电视剧集",香港经典动作电影
+http://4005.wooham.xyz:35455/huya/30080197
+
 #EXTINF:-1 group-title="电视剧集",王晶
-http://4005.wooham.xyz:35455/huya/11602058
+http://cfss.cc/cdn/huya/11602058.flv
 #EXTINF:-1 group-title="电视剧集",王晶
 https://www.goodiptv.club/huya/11602058
-#EXTINF:-1 group-title="电视剧集",港片喜剧动作
-http://4005.wooham.xyz:35455/yy/1355480591
+#EXTINF:-1 group-title="电视剧集",王晶
+http://op.wooham.xyz:35455/huya/11602058
+#EXTINF:-1 group-title="电视剧集",王晶
+http://4005.wooham.xyz:35455/huya/30080197
 #EXTINF:-1 group-title="电视剧集",港片喜剧动作
 https://www.goodiptv.club/yy/1355480591
-#EXTINF:-1 group-title="电视剧集",经典港片电影
-http://4005.wooham.xyz:35455/yy/1459801818
-#EXTINF:-1 group-title="电视剧集",经典港片电影
-https://www.goodiptv.club/yy/1459801818
+#EXTINF:-1 group-title="电视剧集",港片喜剧动作
+http://4005.wooham.xyz:35455/yy/1355480591
 #EXTINF:-1 group-title="电视剧集",动作大片
 http://4005.wooham.xyz:35455/yy/1354888739
 #EXTINF:-1 group-title="电视剧集",动作大片
 https://www.goodiptv.club/yy/1354888739
 #EXTINF:-1 group-title="电视剧集",挑战极限
-http://4005.wooham.xyz:35455/douyu/29982632?stream=flv
+http://cfss.cc/cdn/huya/29982632.flv
 #EXTINF:-1 group-title="电视剧集",挑战极限
+https://www.goodiptv.club/huya/29982632
+#EXTINF:-1 group-title="电视剧集",挑战极限
+http://4005.wooham.xyz:35455/huya/29982632
+#EXTINF:-1 group-title="电视剧集",挑战极限
+http://op.wooham.xyz:35455/huya/29982632
+
+#EXTINF:-1 group-title="电视剧集",挑战极限（失效）
 http://4005.wooham.xyz:35455/douyu/29982632
 #EXTINF:-1 group-title="电视剧集",柯南剧场版
 http://4005.wooham.xyz:35455/huya/30080236
 #EXTINF:-1 group-title="电视剧集",柯南剧场版
 https://www.goodiptv.club/huya/30080236
 #EXTINF:-1 group-title="电视剧集",柯南剧场版
-https://8.138.90.107/huya.php?id=30080236
-#EXTINF:-1 group-title="电视剧集",柯南2
-http://4005.wooham.xyz:35455/huya/30080148
-#EXTINF:-1 group-title="电视剧集",柯南2
-https://www.goodiptv.club/huya/30080148
-#EXTINF:-1 group-title="电视剧集",柯南2
-https://8.138.90.107/huya.php?id=30080148
-#EXTINF:-1 group-title="电视剧集",柯南2
-http://4005.wooham.xyz:35455/huya/30080236
-#EXTINF:-1 group-title="电视剧集",柯南2
-https://www.goodiptv.club/huya/30080236
-#EXTINF:-1 group-title="电视剧集",柯南2
-https://8.138.90.107/huya.php?id=30080236
+http://cfss.cc/cdn/huya/30080236.flv
+#EXTINF:-1 group-title="电视剧集",柯南
+http://cfss.cc/cdn/huya/26355804.flv
+#EXTINF:-1 group-title="电视剧集",柯南
+https://www.goodiptv.club/huya/26355804
+#EXTINF:-1 group-title="电视剧集",柯南
+http://op.wooham.xyz:35455/huya/26355804
+#EXTINF:-1 group-title="电视剧集",柯南
+http://4005.wooham.xyz:35455/huya/26355804
 #EXTINF:-1 group-title="电视剧集",小新1
 http://4005.wooham.xyz:35455/huya/30065341
 #EXTINF:-1 group-title="电视剧集",小新1
 https://www.goodiptv.club/huya/30065341
+
+#EXTINF:-1 group-title="电视剧集",小新2
+http://cfss.cc/cdn/huya/24587878.flv
+#EXTINF:-1 group-title="电视剧集",小新2
+https://www.goodiptv.club/huya/24587878
 #EXTINF:-1 group-title="电视剧集",小新2
 http://4005.wooham.xyz:35455/huya/24587878
 #EXTINF:-1 group-title="电视剧集",小新2
-https://www.goodiptv.club/huya/24587878
+http://op.wooham.xyz:35455/huya/24587878
+
+#EXTINF:-1 group-title="电视剧集",小新3
+http://cfss.cc/cdn/huya/30527430.flv
+#EXTINF:-1 group-title="电视剧集",小新3
+https://www.goodiptv.club/huya/30527430
 #EXTINF:-1 group-title="电视剧集",小新3
 http://4005.wooham.xyz:35455/huya/30527430
 #EXTINF:-1 group-title="电视剧集",小新3
-https://www.goodiptv.club/huya/30527430
+http://op.wooham.xyz:35455/huya/30527430
+#EXTINF:-1 group-title="电视剧集",小新4
+http://cfss.cc/cdn/huya/11352970.flv
 #EXTINF:-1 group-title="电视剧集",小新4
 https://www.goodiptv.club/huya/11352970
 #EXTINF:-1 group-title="电视剧集",小新4
 http://4005.wooham.xyz:35455/huya/11352970
+#EXTINF:-1 group-title="电视剧集",小新4
+http://op.wooham.xyz:35455/huya/11352970
 #EXTINF:-1 group-title="电视剧集",小新5
 http://4005.wooham.xyz:35455/huya/29862625
 #EXTINF:-1 group-title="电视剧集",小新5
@@ -1932,43 +2102,34 @@ http://4005.wooham.xyz:35455/bilibili/22962797
 #EXTINF:-1 group-title="电视剧集",小新B站
 https://www.goodiptv.club/bilibili/22962797
 #EXTINF:-1 group-title="电视剧集",宫崎骏
-http://4005.wooham.xyz:35455/huya/21059614
-#EXTINF:-1 group-title="电视剧集",宫崎骏
-http://wdtv.hwaksi.uk/huya.php?id=21059614
+http://cfss.cc/cdn/huya/21059614.flv
 #EXTINF:-1 group-title="电视剧集",宫崎骏
 https://www.goodiptv.club/huya/21059614
 #EXTINF:-1 group-title="电视剧集",宫崎骏
-https://8.138.90.107/huya.php?id=21059614
+http://4005.wooham.xyz:35455/huya/21059614
 #EXTINF:-1 group-title="电视剧集",宫崎骏
-http://47.237.74.77:7777/huya.php?id=21059614
+http://op.wooham.xyz:35455/huya/21059614
 #EXTINF:-1 group-title="电视剧集",魏璎珞
-http://4005.wooham.xyz:35455/huya/26355864
-#EXTINF:-1 group-title="电视剧集",魏璎珞
-http://wdtv.hwaksi.uk/huya.php?id=26355864
+http://cfss.cc/cdn/huya/26355864.flv
 #EXTINF:-1 group-title="电视剧集",魏璎珞
 https://www.goodiptv.club/huya/26355864
 #EXTINF:-1 group-title="电视剧集",魏璎珞
-https://8.138.90.107/huya.php?id=26355864
+http://4005.wooham.xyz:35455/huya/26355864
 #EXTINF:-1 group-title="电视剧集",魏璎珞
-http://47.237.74.77:7777/huya.php?id=26355864
-#EXTINF:-1 group-title="电视剧集",我和僵尸1
-http://zzy789.xyz/douyu1.php?id=310926
-#EXTINF:-1 group-title="电视剧集",【奇光】点播剧场
-http://4005.wooham.xyz:35455/douyu/11849873
-#EXTINF:-1 group-title="电视剧集",【奇光】点播剧场
-http://4005.wooham.xyz:35455/douyu/11849873
-#EXTINF:-1 group-title="电视剧集",【奇光】点播剧场
-https://www.goodiptv.club/douyu/11849873
-#EXTINF:-1 group-title="电视剧集",【奇光】点播剧场
-http://zzy789.xyz/douyu1.php?id=11849873
-#EXTINF:-1 group-title="电视剧集",【奇光】点播剧场
-http://47.237.74.77:7777/douyu.php?id=11849873
+http://op.wooham.xyz:35455/huya/26355864
 #EXTINF:-1 group-title="电视剧集",港台 科幻 动作 喜剧
-http://zzy789.xyz/douyu1.php?id=434971
-#EXTINF:-1 group-title="电视剧集",寒山潜龙
-http://4005.wooham.xyz:35455/yy/1382745103
+http://4005.wooham.xyz:35455/douyu/21713
+#EXTINF:-1 group-title="电视剧集",港台 科幻 动作 喜剧
+https://www.goodiptv.club/douyu/21713
+#EXTINF:-1 group-title="电视剧集",港台 科幻 动作 喜剧
+https://live.metshop.top/douyu/21713
+#EXTINF:-1 group-title="电视剧集",港台 科幻 动作 喜剧
+http://op.wooham.xyz:35455/douyu/21713
 #EXTINF:-1 group-title="电视剧集",寒山潜龙
 https://www.goodiptv.club/yy/1382745103
+#EXTINF:-1 group-title="电视剧集",寒山潜龙
+http://4005.wooham.xyz:35455/yy/1382745103
+
 
 
 
