@@ -512,9 +512,6 @@ https://tving-live-o2-skcdn.tving.com/o2/v1/01a0a8531d5c1eb80e791db1d96030/01a0a
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
 http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1(고화질)
-
-
-
 http://tv.wooham.xyz:35455/kbs.php?id=1
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 https://tving-live-o2-xcdn.tving.com/o2/v1/01a0a855bb341eb80e791db1d96034/01a0a855bea1153d78652fe2d08706/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODk4NTkyNDEsInBhdGgiOiIvbzIifQ.clqUfg32JGBbQFjIhDMNmOmsBdJoQBdSR2BmKtbFjQI
@@ -526,12 +523,20 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
 http://tv.wooham.xyz:35455/kbs.php?id=1
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
 http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
+http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
-https://tving-live-o2-xcdn.tving.com/o2/v1/0198cb52bab0153d78652b69a68df2/0198cbdbd1c41eb80e79539125d0a/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODAwNTU1OTUsInBhdGgiOiIvbzIifQ.MuCkfbkpPhVJ_LNp0nmdiR24ynP1W3TH69gTZIuqex8
+https://tving-live-o2-tcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad4884/9a7820a71d76156487294e7c09bd0d8b/dmMxX3N0cmVhbTQubTN1OA==/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXRjZG4udHZpbmcuY29tLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk4NTkzMzF9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=YfUwwm2Zs15xZwgfUG3hfONnNbwPMhpTAYJtcPlr1vHTRRdobkQ3PcbH4dMcMoE6UN6Rxo~o~INb6prSiPSfe~2NaUZ0IjTVIAvFozKUccxYIgSOOGxof~IX6hSxP7zN11SEb7QB9UuAVNFnsRQoDGj18I2yjEFIgJDpLDiC4Mfjuscqp2KhC1rrbEpXKrRxBnZez6cgXbqp7ZSOjgInk7TjRjxZsXby2fnqyQ~krqunouok-gyz4GulzSxtVV6401Z5kPk2ZD-M8Cor6cm3eIt1Ct0Q9ii8Osz5rD8wy7s7CqfbMTLydcaW4jDqsiTwZsS55ELV73fnk7mD-mTRXQ__&Key-Pair-Id=K3TMJVXKIOXYK3
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
 http://koreatv.dothome.co.kr/mbc.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",MBN (고화질)
-http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",MBN (고화질)
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbc
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://https://upload.wikimedia.org/wikipedia/commons/1/1e/TV_Chosun_Logo_%28English%29.svg",티비조선 (고화질)
 http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스(고화질)
